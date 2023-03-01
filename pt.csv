@@ -546,7 +546,7 @@ frmSettings.chkVoice,Enabled,Ativado
 frmSettings.lblVoiceAudio,Audio Source:,Fonte de áudio:
 frmSettings.lblVoiceConfidence,Confidence:,Confiança:
 frmSettings.lblAudioSource,Recording Audio:,Gravação de áudio:
-frmSettings.lblAudioSourceDescription,"The selected Audio Device will be used for Recording, Streaming and External Output","O dispositivo de áudio selecionado será usado para gravação, transmissão e saída externa"
+frmSettings.lblAudioSourceDescription,"The selected Audio Device will be used for Recording, Streaming and External Output","O dispositivo de áudio selecionado será usado para gravação, transmissão e External"
 frmSettings.lblAudioSourceFormat,Format:,Formato:
 frmSettings.lblMasterBitRate,Master Bit Rate:,Taxa de Bits master:
 frmSettings.lblSamplingRate,Master Sample Rate:,Taxa de amostragem master:
@@ -572,10 +572,10 @@ frmSettings.chkShowOverlays,Overlay,Overlay
 frmSettings.chkControlSurfaceEnabled,vMix Control Surface Enabled,Superfície de controle ativada
 frmSettings.chkMultiInstance,Enable Multiple Instances,Permitir múltiplas instâncias do vMix
 frmSettings.chkRememberWindowPosition,Remember Window Position,Lembrar posição da janela
-frmSettings.chkRecordingConfirm,"Display confirmation for Record, External, Stream and MultiCorder buttons","Exibir confirmação para botões de Gravação, Extenal, Stream e MultiCorder"
+frmSettings.chkRecordingConfirm,"Display confirmation for Record, External, Stream and MultiCorder buttons","Exibir confirmação para botões de Gravação, External, Stream e MultiCorder"
 frmSettings.chkPreviewClick,Activate QuickPlay by clicking Preview Window,Ativar QuickPlay clicando janela de Preview
 frmSettings.lblLanguage,Language:,Idioma:
-frmSettings.chkExternal,Start External Output,Iniciar saída externa
+frmSettings.chkExternal,Start External Output,Iniciar saída External
 frmSettings.chkPausePreview,Automatically Pause Preview Input after Transition,Pausar automaticamente o input depois de uma transição
 frmSettings.chkMaximised,Start Maximised,Iniciar maximizado
 frmSettings.chkAdvanced,Start in Advanced mode,Iniciar em modo avançado
@@ -648,12 +648,12 @@ frmSettings.cmdTemplates,Templates,Modelos
 frmSettings.cmdEditShortcut,Edit,Editar
 frmSettings.cmdRemoveShortcut,Remove,Remover
 frmSettings.cmdAddShortcut,Add,Adicionar
-frmSettings.chkExternalUseDisplaySettings,Use Display Settings,Usar definições do monitor
-frmSettings.chkExternalUseStreamingSettings,Use Streaming Settings,Usar definições da transmissão
-frmSettings.cmdAux2,External 2,Saída externa 2
-frmSettings.cmdAux1,External,Saída externa
+frmSettings.chkExternalUseDisplaySettings,Use Display Settings,Usar mesmo do monitor
+frmSettings.chkExternalUseStreamingSettings,Use Streaming Settings,Usar mesmo da transmissão
+frmSettings.cmdAux2,External 2,External 2
+frmSettings.cmdAux1,External,External
 frmSettings.cVirtual,vMix Video / Streaming,vMix Video / Transmissão
-frmSettings.cDeckLink,External Renderer,Renderizador externo
+frmSettings.cDeckLink,External Renderer,Renderizador External
 frmSettings.lblExSystem,Frame Rate:,Frame rate:
 frmSettings.lblExtAlpha,Alpha Channel:,Canal alfa:
 frmSettings.lblExtAudioChannels,Audio Channels:,Canais de áudio:
@@ -716,7 +716,7 @@ frmSettings.tMenu.Options,Options,Opções
 frmSettings.tMenu.Performance,Performance,Performance
 frmSettings.tMenu.Decoders,Decoders,Decodificadores
 frmSettings.tMenu.Recording,Recording,Gravação
-frmSettings.tMenu.External Output,External Output,Saída externa
+frmSettings.tMenu.External Output,External Output,Saída External
 frmSettings.tMenu.Audio,Audio,Áudio
 frmSettings.tMenu.Audio Outputs,Audio Outputs,Saídas de áudio
 frmSettings.tMenu.Web Controller,Web Controller,Controlador web
@@ -933,7 +933,7 @@ CAPTURE_NOT_FOUND,Capture device could not be found,Dispositivo de captura não 
 WINDOWS_7_REQUIRED,Windows 7 or higher required.,Windows 7 ou mais alto exigido.
 WINDOWS_10_REQUIRED,Windows 10 or higher required.,Windows 10 ou superior necessário.
 POWERPOINT_LOAD_SLIDE_ERROR,"Could not load Slide, please ensure PowerPoint is closed and try again.","Não foi possível carregar Slide, certifique-se de PowerPoint está fechado e tente novamente."
-EXTERNAL_RENDERER_NOT_FOUND,External Renderer Not Found,Renderer externo não encontrado
+EXTERNAL_RENDERER_NOT_FOUND,External Renderer Not Found,Renderer External não encontrado
 AUDIO_DEVICE_NOT_FOUND,AUDIO_DEVICE_NOT_FOUND,AUDIO_DEVICE_NOT_FOUND
 AUDIO_FORMAT_NOT_FOUND,AUDIO_FORMAT_NOT_FOUND,AUDIO_FORMAT_NOT_FOUND
 EXPIRED,"This Program has Expired, please visit http://www.vmix.com/ for an updated version.","Este programa expirou, por favor visite http://www.vmix.com/ para uma versão atualizada."
@@ -1059,7 +1059,7 @@ SHORTCUT_INVALID_FORMAT,Shortcut is in Invalid Format.,Atalho é em formato inv�
 SHORTCUT_SELECT_FUNCTION,Please select a Function.,Por favor selecione uma função.
 WEB_COULD_NOT_START,Web Controller could not start. The port may already be in use.,Controlador da Web não pôde ser iniciado. A porta já pode estar em uso.
 WEB_NOT_STARTED,The Web Controller has not been enabled. Please enable in settings and restart vMix.,O controlador da Web não foi ativado. Ative em configurações e reiniciar vMix.
-STOP_RECORDING,"Stop Recording, External Output, MultiCorder and Streaming before Opening a Preset.","Pare de Gravar, Saída Externa, MultiCorder e Streaming antes de Abrir um Preset."
+STOP_RECORDING,"Stop Recording, External Output, MultiCorder and Streaming before Opening a Preset.","Pare a Gravação, External, MultiCorder e Streaming antes de Abrir um perfil."
 NOT_SUPPORTED_UNDER_X64,This feature does not support 64bit.,Este recurso não suporta 64 bits.
 COULD_NOT_IMPORT_SETTINGS,Could not import settings. Check the file format is correct.,Não foi possível importar as configurações. Verifique o formato do arquivo está correta.
 COULD_NOT_EXPORT_SETTINGS,Could not export settings.,Não foi possível exportar as configurações.
@@ -1090,10 +1090,10 @@ RECORDING_INVALID_FILENAME,Recording filename is invalid. Please check the filen
 RECORDING_VERTICAL_NOT_SUPPORTED,This recording format does not support Vertical or Square video.,Este formato de gravação não suporta vídeo vertical ou quadrado.
 LIST_REQUIRES_ONE_ITEM,List requires at least one item.,A lista requer pelo menos um item.
 MP4_SIZE_LIMIT,MP4 Recording has a maximum file size of 3.7GB under Windows 7,Gravação MP4 tem um tamanho máximo de arquivo de 3.7GB no Windows 7
-EXTERNAL_RENDERER_IN_USE_OR_NOT_COMPATIBLE,The selected External Renderer Device is in use or does not support the selected format. Please check your External Output settings and try again.,"O dispositivo de renderização externa selecionado está em uso ou não suporta o formato selecionado. Por favor, verifique as configurações de saída externa e tente novamente."
+EXTERNAL_RENDERER_IN_USE_OR_NOT_COMPATIBLE,The selected External Renderer Device is in use or does not support the selected format. Please check your External Output settings and try again.,"O dispositivo de renderização External selecionado está em uso ou não suporta o formato selecionado. Por favor, verifique as configurações de External e tente novamente."
 SELECT_ITEM,Select an item in the list first.,Primeiro selecione um item da lista.
 UYVY_REQUIRED,Output Format must be set to UYVY for this Device.,Formato de saída deve ser definido como UYVY para este dispositivo.
-OUTPUT_FRAMERATE_MISMATCH,External Output Frame Rate must match vMix Frame Rate.,Frame rate da saída externa deve corresponder ao frame rate do vMix.
+OUTPUT_FRAMERATE_MISMATCH,External Output Frame Rate must match vMix Frame Rate.,Frame rate da saída External deve corresponder ao frame rate do vMix.
 STREAMING_AUDIO_BITRATE_NOT_SUPPORTED,"The selected Audio Master Bit Rate is not support (32bit), please change this to 16 bit PCM in vMix Settings under the Audio tab.","A taxa de bits selecionado para o áudio Master não é suportada (32bit), por favor, altere para 16 bits PCM nas configurações do vMix na guia Áudio."
 FFMPEG_RECORDING_FAILED,FFMPEG Recording failed. Check the log file for more information.,Gravação FFMPEG falhou. Verifique o arquivo de log para obter mais informações.
 REPLAY_ALREADY_IN_USE,Instant Replay is already in use. Only one session can be open at a time.,Instant Replay já está em uso. Apenas uma sessão pode ser aberta por vez.
@@ -1124,8 +1124,8 @@ SELECT_INPUT,Please select an Input.,"Por favor, selecione um input."
 SELECT_COPY_SOURCE,Please select one or more items to copy.,"Por favor, selecione um ou mais itens para copiar."
 MIX_MAXIMUM_REACHED,A maximum of 15 Mix inputs can be added at the same time.,Um máximo de 15 inputs Mix podem ser adicionados.
 OUTPUT_MAXIMUM_REACHED,A maximum of 1 Input of this type can be added at a time.,No máximo 1 input deste tipo pode ser adicionado por vez.
-EXTERNAL_OUTPUT_DEVICE_NOT_FOUND_1,Device not found or selected under Settings - External Output. Please check the settings and try again.,Dispositivo não encontrado ou selecionado em Configurações - Saída Externa. Verifique as configurações e tente novamente.
-EXTERNAL_OUTPUT_DEVICE_NOT_FOUND_2,"Device not found or selected under Settings - External Output - External 2.{newline}Check the settings or if you are not using External 2, untick the External Renderer checkbox in the External 2 tab.","Dispositivo não encontrado ou selecionado em Configurações - Saída Externa - Externa 2. Verifique as configurações ou, se não estiver usando Externo 2, desmarque a caixa de seleção Renderizador Externo na guia Externo 2."
+EXTERNAL_OUTPUT_DEVICE_NOT_FOUND_1,Device not found or selected under Settings - External Output. Please check the settings and try again.,Dispositivo não encontrado ou selecionado em Configurar - External. Verifique as configurações e tente novamente.
+EXTERNAL_OUTPUT_DEVICE_NOT_FOUND_2,"Device not found or selected under Settings - External Output - External 2.{newline}Check the settings or if you are not using External 2, untick the External Renderer checkbox in the External 2 tab.","Dispositivo não encontrado ou selecionado em Configurar - External - External 2. Verifique as configurações ou, se não estiver usando External 2, desmarque a caixa de seleção Renderizador externo na guia External 2."
 Start,Start,Iniciar
 Stop,Stop,Parar
 Basic,Basic,Modo Básico
@@ -1140,9 +1140,9 @@ ToolTip.frmmain.UiFader1,Manual fade using first transition effect. (T-Bar),Ativ
 ToolTip.frmmain.cmdFTB,Toggle fade to black on Output,Ativar ou desativar Fade To Black na saída
 ToolTip.frmmain.cmdRecSetup,Configure Recording,Configurar gravação
 ToolTip.frmmain.cmdRecStartStop,Start or stop Recording,Iniciar ou parar gravação
-ToolTip.frmmain.cmdExternal,Configure External Output source,Configurar fonte de saída externa
-ToolTip.frmmain.cmdDeckLinkRender,Start or stop External Output,Iniciar ou parar saída externa
-ToolTip.frmmain.cmdDeckLinkInfo,View External Output statistics,Ver estatísticas de saída externa
+ToolTip.frmmain.cmdExternal,Configure External Output source,Configurar fonte de saída External
+ToolTip.frmmain.cmdDeckLinkRender,Start or stop External Output,Iniciar ou parar saída External
+ToolTip.frmmain.cmdDeckLinkInfo,View External Output statistics,Ver estatísticas de saída External
 ToolTip.frmmain.cmdRecInfo,View Recording statistics,Ver estatísticas de gravação
 ToolTip.frmmain.cmdStreamingSetup,Configure Streaming settings,Configurar as definições de transmissão
 ToolTip.frmmain.cmdStreaming,Start or stop Streaming,Iniciar ou parar transmissão

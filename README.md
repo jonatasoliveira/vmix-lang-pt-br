@@ -2,6 +2,15 @@
 
 Repositório criado para gerenciar a tradução do vMix para português do Brasil.
 
+# Instalando a tradução no vMix
+
+Primeiro você deve baixar esse arquivo de tradução: [pt.txt](https://raw.githubusercontent.com/jonatasoliveira/vmix-lang-pt-br/main/pt.txt). Você vai clicar no link e salvar o arquivo no seu computador.
+
+Para fazer a instalação você deve copiar o arquivo recém baixado para a pasta:
+`C:\Arquivos de Programas (x86)\vMix\languages`
+
+Já vai existir um arquivo chamado `pt.txt` na pasta e se você achar necessário faça um backup dele antes de substituir pelo arquivo baixado.
+
 # Frases não traduzidas
 
 Ainda existem várias áreas do vMix que não são possíveis de serem traduzidas no momento, provavelmente por que os desenvolvedores não fizeram a implementação da tradução nesses locais, e por esse motivo mesmo que a tradução dos arquivos do vMix esteja 100% executada ainda existirão algumas janelas ou opções que ficarão em inglês.

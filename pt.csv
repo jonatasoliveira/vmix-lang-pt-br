@@ -1,0 +1,1198 @@
+﻿frmAudioEngine.frmAudioEngine	Audio Engine	Audio Engine
+frmAudioEngine.lblBitRate	Bit Rate:	Taxa de bits:
+frmAudioEngine.lblSampleRate	Sample Rate:	Taxa de amostragem:
+frmAudioEngine.lblLastError	Last Error:	Último erro:
+frmAudioEngine.lblMixingErrors	Mixing Errors:	Erros de mistura:
+frmAudioEngine.lblStatus	Status:	Status:
+frmmain.cmdRestartM	Restart	Reinicie
+frmmain.cmdFTB	FTB	FTB
+frmmain.cmdQuickPlay	Quick Play	Quick Play
+frmmain.cmdCut	Cut	Cortar
+frmmain.cmdFade	Fade	Desvanecer
+frmmain.cmdEffect	Zoom	Zoom
+frmmain.cmdFade2	Wipe	Limpar
+frmmain.cmdFade4	Slide	Deslizar
+frmmain.cmdRestart	Restart	Reinicie
+frmmain.cmdConfirmYes	YES	SIM
+frmmain.lblConfirm	Close input?	Fechar entrada?
+frmmain.cmdList	List	Lista
+frmmain.cmdReplay	Instant Replay	Replay instantâneo
+frmmain.cmdAudioMixer	Audio Mixer	audio Mixer
+frmmain.cmdPlaylist	PlayList	PlayList
+frmmain.cmdMultiCorderStartStop	MultiCorder	MultiCorder
+frmmain.cmdStreaming	Stream	Córrego
+frmmain.cmdDeckLinkRender	External	Externo
+frmmain.cmdRecStartStop	Record	Registro
+frmmain.cmdAddInput	Add Input	Adicionar Entrada
+frmmain.cmdOverlaySettings	Overlay	Overlay
+frmmain.cmdSaveExisting	Save	Salve 
+frmmain.lblPreset	Preset	Predefinido
+frmmain.cmdOpen	Open	Aberto
+frmmain.cmdSave	Save As	Salvar como
+frmmain.cmdClose	New	Novo
+frmmain.cmdLastPreset	Last	Último
+frmmain.cmdScreen	Fullscreen	Fullscreen
+frmmain.pctSRT	SRT	SRT
+frmmain.pctRec	REC	REC
+frmmain.pctExt	EXT	EXT
+frmmain.pctStream	STREAM 1	STREAM 1
+frmmain.pctSolo	SOLO	SOMENTE
+frmmain.cmdSettings	Settings	Configurações
+frmmain.cmdPause	Pause Inputs	Entradas Pausa
+frmmain.cmdAdvanced	Advanced	Avançado
+frmAudioSettings.frmAudioSettings	Audio Settings	Configurações de áudio
+frmAudioSettings.cmdShowEditor	Show Editor	Mostrar Editor
+frmAudioSettings.lblMilliseconds	milliseconds	milissegundos
+frmAudioSettings.lblDelay	Delay	Atrasar
+frmAudioSettings.cmdReset	Reset	Restabelecer
+frmAudioSettings.cmdResetGain2	Reset	Redefinir
+frmAudioSettings.lblGain2	Gain 2	Ganho 2
+frmAudioSettings.chkAGC	Automatic Gain Control	Controle Automático de Ganho
+frmAudioSettings.lblGain	Gain	Ganhar
+frmAudioSettings.cmdResetGain	Reset	Restabelecer
+frmAudioSettings.lblHardwareVolume	Device Volume	Volume dispositivo
+frmAudioSettings.chkAudioPad	-20 dB Pad	-20 dB Pad
+frmAudioSettings.lblAudioChannel	Channel	Canal
+frmAudioSettings.lblAudioFormat	Format	Formato
+frmAudioSettings.lblName	Name	Nome
+frmAudioSettings.cmdMatrixDelete	Delete	Excluir
+frmAudioSettings.cmdMatrixAdd	Add	Adicionar
+frmAudioSettings.lblMatrixPreset	Preset	Preset
+frmAudioSettings.mtxLabel	UiMatrixLabel1	UiMatrixLabel1
+frmAudioSettings.lblMasterR	Master R	mestre R
+frmAudioSettings.mtxChannelMatrix	UiMatrix1	UiMatrix1
+frmAudioSettings.lblHR	Headphones R	Fones de ouvido R
+frmAudioSettings.lblMasterL	Master L	o Mestre
+frmAudioSettings.lblHL	Headphones L	Fones de ouvido L
+frmAudioSettings.cmdResetEQ	Reset	Restabelecer
+frmAudioSettings.chkEnableEQ	Enable EQ	Ativar EQ
+frmAudioSettings.chkEnableGate	Enable Noise Gate	Ativar Noise Gate
+frmAudioSettings.lblGateThreshold	Threshold	Limite
+frmAudioSettings.cmdGateReset	Reset	Restabelecer
+frmAudioSettings.lblDB	dBFS	dBFS
+frmAudioSettings.lblPost	Post	Postar
+frmAudioSettings.UiMeterLabel1	UiMeterLabel1	UiMeterLabel1
+frmAudioSettings.lblRightPeak	-Inf	-Inf
+frmAudioSettings.lblLeftPeak	-Inf	-Inf
+frmAudioSettings.vRight	VuMeterVertical1	VuMeterVertical1
+frmAudioSettings.vLeft	VuMeterVertical1	VuMeterVertical1
+frmAudioSettings.lblPre	Pre	para
+frmAudioSettings.lblPreRightPeak	-Inf	-Inf
+frmAudioSettings.lblPreLeftPeak	-Inf	-Inf
+frmAudioSettings.vRightPre	VuMeterVertical1	VuMeterVertical1
+frmAudioSettings.vLeftPre	VuMeterVertical1	VuMeterVertical1
+frmAudioSettings.chkEnableCompressor	Enable Compressor	Ativar Compressor
+frmAudioSettings.cmdResetCompressorRatio	Reset	Restabelecer
+frmAudioSettings.lblCompressor	Ratio	Relação
+frmAudioSettings.lblCompressorThreshold	Threshold	Limiar
+frmAudioSettings.cmdResetThreshold	Reset	Redefinir
+frmAudioSettings.chkVisible	Visible in Mixer	Visível no Mixer
+frmAudioSettings.cmdClose	Close	Fechar
+frmAudioSettings.tMenu.General	General	Geral
+frmAudioSettings.tMenu.Plugins	Plugins	Plugins
+frmAudioSettings.tMenu.Compressor	Compressor	Compressor
+frmAudioSettings.tMenu.Noise Gate	Noise Gate	Noise Gate
+frmAudioSettings.tMenu.Channel Mixer	Channel Mixer	channel Mixer
+frmAudioSettings.tMenu.Channel Matrix	Channel Matrix	Matriz de canais
+frmAudioSettings.cmdResetDynamics	Reset	Restabelecer
+frmAudioSettings.lblDynAttack	Attack milliseconds	milissegundos ataque
+frmAudioSettings.lblDynLowThreshold	Low Threshold	Baixo limiar
+frmAudioSettings.lblDynLow	Low	Baixo
+frmAudioSettings.lblDynHigh	High	Alto
+frmAudioSettings.chkEnableDynamics	Enable Dynamics	Ativar Dynamics
+frmBlockedFilterList.frmBlockedFilterList	DirectShow Blocked Filter List	DirectShow bloqueados lista de filtros
+frmBlockedFilterList.cmdCancel	Cancel	Cancelar
+frmBlockedFilterList.lblInfo	Any filters checked in the list below will not be used by vMix.	Todos os filtros marcados na lista abaixo não será usado por Vmix.
+frmColourSelect.frmColourSelect	Colour Select	Selecione Cor
+frmColourSelect.lblInfo	Click on a neutral colour from the image below. A neutral colour should reflect all light evenly (a grey sheet of cardboard, for example)	Clique em uma cor neutra a partir da imagem abaixo. A cor neutra deve refletir toda a luz uniformemente (uma folha de papelão cinza, por exemplo)
+frmError.frmError	vMix Error	Erro Vmix
+frmError.lblMessage	Error Message	Mensagem de erro
+frmError.cmdSendErrorReport	Send Error Report	Enviar relatório de erros
+frmError.cmdClose	Close	Fechar
+frmfull.frmfull	Fullscreen	Fullscreen
+frmInput.frmInput	Input Select	Seleção de Entrada
+frmInput.chkRTMPInstanceURL	URL includes App Instance	URL inclui App Instância
+frmInput.chkInterlaced	Video is Interlaced	O vídeo é entrelaçado
+frmInput.chkImageSequence	Image Sequence	Sequência de Imagens
+frmInput.chkAlpha	Video contains Alpha Channel	Vídeo contém Alpha Channel
+frmInput.lblRTMPMilliseconds	milliseconds	milissegundos
+frmInput.lblRTMPBuffer	RTMP Buffer:	Tampão RTMP:
+frmInput.lblFlashResolution	Resolution:	Resolução:
+frmInput.cmdClear	Clear	Limpar
+frmInput.cmdBrowse	Browse	Procurar
+frmInput.tAudio	Aud	Aud
+frmInput.tImage	Img	Img
+frmInput.tPhotos	Phot	Phot
+frmInput.tPowerpoint	PPT	PPT
+frmInput.tDVD	DVD	DVD
+frmInput.tCapture	Cap	Boné
+frmInput.chkCameraAudioEnabled	Audio Enabled	áudio Ativado
+frmInput.chkCaptureInterlaced	Interlaced	Entrelaçado
+frmInput.lblAudioInput	Audio Input:	Entrada de áudio:
+frmInput.lblVideoFormat	Video Format:	Formato de vídeo:
+frmInput.lblAudioFormat	Audio Format:	Formato de áudio:
+frmInput.lblAudioDevice	Audio Device:	Dispositivo de áudio:
+frmInput.chkVMR	Use VMR	Use VMR
+frmInput.lblCapture	Camera:	Câmera:
+frmInput.lblSystem	Frame Rate:	Frame Rate:
+frmInput.lblInput	Input:	Entrada:
+frmInput.lblResolution	Resolution:	Resolução:
+frmInput.tNetwork	Desk	Secretária
+frmInput.lblDesktopCaptureWindowType	Window Capture Method	Método de captura de janela
+frmInput.cmdLocalDesktopTab	Local Desktop Capture	Capture Desktop local
+frmInput.cmdNDITab	NDI	NDI
+frmInput.chkFEIM	FEIM	FEIM
+frmInput.chkNDIBuffer	Increase Buffer Size	Aumentar o tamanho do buffer
+frmInput.chkNDIPSF	PsF	PsF
+frmInput.chkAudioOnly	Audio Only	Somente Audio
+frmInput.lnkNDI	http://NDI.NewTek.com/	http://NDI.NewTek.com/
+frmInput.chkNDILowBandwidth	Low Bandwidth Mode	Modo de baixa largura de banda
+frmInput.tAudioInput	AuI	AUI
+frmInput.chkMuteHeadphones	Mute in Headphones	Mudo em fones de ouvido
+frmInput.lblAudioChannels	Audio Channels:	Canais de Áudio:
+frmInput.lblAudioAudioFormat	Audio Format:	Formato de áudio:
+frmInput.lblAudioAudioDevice	Audio Device:	Dispositivo de áudio:
+frmInput.tFlash	Fsh	Fsh
+frmInput.tVideoDelay	Del	O
+frmInput.lblSaveCodec	Save Codec:	Salvar Codec:
+frmInput.lblSource	Source:	Fonte:
+frmInput.lblSeconds	Seconds:	Segundos:
+frmInput.lblVideoDelayResolution	Resolution:	Resolução:
+frmInput.tTitle	Ttl	Ttl
+frmInput.tColour	Col	Com
+frmInput.rTransparent	Transparent	Transparente
+frmInput.rColourBars	Colour Bars	Barras de cor
+frmInput.rColour	Colour	Cor
+frmInput.tVideoList	Lst	Lst
+frmInput.chkListInterlaced	Selected video is interlaced	O vídeo selecionado é entrelaçado
+frmInput.cmdClearVideoList	Clear	Limpar
+frmInput.cmdRemove	Remove	Remover
+frmInput.cmdRandomise	Shuffle	Embaralhar
+frmInput.cmdAdd	Add	Adicionar
+frmInput.tVirtualSet	Virt	Respeitado
+frmInput.tRTSP	Strm	Íngreme
+frmInput.lblSRTStreamID	Stream ID	ID do fluxo
+frmInput.lblSRTKeyLength	Key Length	Comprimento da chave
+frmInput.lblSRTDecoderDelay	Decoder Delay (ms)	Atraso do decodificador (ms)
+frmInput.chkSRTHWDecoder	Use Hardware Decoder	Usar decodificador de hardware
+frmInput.lblSRTPassPhrase	Passphrase	Frase de acesso
+frmInput.lblSRTLatencyMs	Latency (ms)	Latência (ms)
+frmInput.chkStreamLowLatency	Low Latency Mode	Modo Low Latency
+frmInput.lblStreamMilliseconds	milliseconds	milissegundos
+frmInput.lblStreamBuffer	Buffer	Tampão
+frmInput.lblStreamType	Stream Type	Tipo de fluxo
+frmInput.lblStreamURL	URL	URL
+frmInput.lblStreamPort	Port	Porto
+frmInput.cmdClearStream	Clear	Limpar
+frmInput.chkGPUDisabled	Disable GPU Acceleration	Desativar aceleração de GPU
+frmInput.lblBrowserVersion	Browser Version	Versão do navegador
+frmInput.cmdWBClear	Clear	Claro
+frmInput.lblWBHeight	Height	Altura
+frmInput.lblWBWidth	Width	Largura
+frmInput.lblWBURL	URL	URL
+frmInput.lnkVCDirect	More Information	Mais Informações
+frmInput.chkVideoCallAdvanced	Show Advanced Options	Mostrar opções avançadas
+frmInput.chkVideoCallSTUN	Allow only direct peer to peer connections	Permitir apenas conexões ponto a ponto diretas
+frmInput.lnkVCLowLatency	More Information	Mais Informações
+frmInput.chkVideoCallDebugLog	Enable Debug Logging	Habilitar registro de depuração
+frmInput.chkVideoCallLowLatency	Low Latency Mode	Modo de baixa latência
+frmInput.cmdVideoCallCopyLink	Copy Link	Link de cópia
+frmInput.lblVideoCallName	Name	Nome
+frmInput.lblReturnVideoSource	Video Source	vídeo Fonte
+frmInput.cmdVideoCallCopy	Copy	cópia de
+frmInput.lblReturnAudio	Audio Source	Fonte de áudio
+frmInput.cmdVideoCallConnect	Connect to Call	Conectar-se a Chamada
+frmInput.cmdVideoCallHost	Host a Call	Anfitrião de uma chamada
+frmInput.cmdVideoCallGenerateKey	Reset Password	Trocar a senha
+frmInput.lblReturnBandwidth	Video Bandwidth{newline}	vídeo Bandwidth
+frmInput.lblReturnVideo	Return Feed (To Guest)	Alimentação de retorno (Para Guest)
+frmInput.lblKey	Password	Senha
+frmInput.lblInputNumber	Number	Número
+frmInput.cmdCancel	Cancel	Cancelar
+frmInput.cmdStressTest	Stress Test	Teste de estresse
+frmInput.cmdSignalGenerator	Signal Generator	Gerador de Sinal
+frmInput.tMenu.Video	Video	Vídeo
+frmInput.tMenu.DVD	DVD	DVD
+frmInput.tMenu.List	List	Lista
+frmInput.tMenu.Camera	Camera	Câmera
+frmInput.tMenu.NDI / Desktop Capture	NDI / Desktop Capture	NDI / Capture Desktop
+frmInput.tMenu.Stream / SRT	Stream / SRT	Stream / SRT
+frmInput.tMenu.Instant Replay	Instant Replay	Instant Replay
+frmInput.tMenu.Image Sequence / Stinger	Image Sequence / Stinger	Sequência de Imagens / Stinger
+frmInput.tMenu.Video Delay	Video Delay	Vídeo Delay
+frmInput.tMenu.Image	Image	Imagem
+frmInput.tMenu.Photos	Photos	Fotos
+frmInput.tMenu.PowerPoint	PowerPoint	PowerPoint
+frmInput.tMenu.Colour	Colour	Cor
+frmInput.tMenu.Audio	Audio	Áudio
+frmInput.tMenu.Audio Input	Audio Input	Entrada de Áudio
+frmInput.tMenu.Title	Title	Título
+frmInput.tMenu.Virtual Set	Virtual Set	Set Virtual
+frmInput.tMenu.Web Browser	Web Browser	web browser
+frmInput.tMenu.Video Call	Video Call	Video chamada
+frmInputSettings.frmInputSettings	Input Settings	Configurações de entrada
+frmInputSettings.cmdPositionPaste	Paste	Colar
+frmInputSettings.cmdPositionCopy	Copy	cópia de
+frmInputSettings.lblRadius	Radius:	Raio:
+frmInputSettings.lblThickness	Thickness:	Espessura:
+frmInputSettings.lblColour	Colour:	Cor:
+frmInputSettings.chkEnableBorder	Border	Fronteira
+frmInputSettings.cmdResetRotate	Reset	Redefinir
+frmInputSettings.cmdResetZoomY	Reset	Redefinir
+frmInputSettings.cmdResetZoomX	Reset	Redefinir
+frmInputSettings.lblZoomY	Zoom Y:	Zoom Y:
+frmInputSettings.lblRotateZ	Rotate:	Girar:
+frmInputSettings.lblZoomX	Zoom X:	Zoom X:
+frmInputSettings.cmdResetPanY	Reset	Redefinir
+frmInputSettings.cmdResetPanX	Reset	Redefinir
+frmInputSettings.cmdResetZoom	Reset	Redefinir
+frmInputSettings.lblPanY	Pan Y:	Pan Y:
+frmInputSettings.lblPanX	Pan X:	Mr. X:
+frmInputSettings.lblZoom	Zoom:	Ampliação:
+frmInputSettings.chkEnableCrop	Cropping	Recorte
+frmInputSettings.lblCropX1	Crop X1:	X1 cultura:
+frmInputSettings.lblCropY1	Crop Y1:	Cortar Y1:
+frmInputSettings.lblCropX2	Crop X2:	Cortar X2:
+frmInputSettings.lblCropY2	Crop Y2:	Cortar Y2:
+frmInputSettings.cmdResetPosition	Reset All	Redefinir todas as
+frmInputSettings.tabEffectProperties	Properties	Propriedades
+frmInputSettings.tabEffectCrop	Crop	Colheita
+frmInputSettings.lblCropX1	Crop X1:	X1 cultura:
+frmInputSettings.lblCropY1	Crop Y1:	Cortar Y1:
+frmInputSettings.lblCropX2	Crop X2:	Cortar X2:
+frmInputSettings.lblCropY2	Crop Y2:	Cortar Y2:
+frmInputSettings.cmdEffectFilename	Browse	Navegar
+frmInputSettings.effectProperty1	Strength	Força
+frmInputSettings.cbSat	Sat	Sentou
+frmInputSettings.cbHue	Hue	Matiz
+frmInputSettings.cmdCCAuto	Basic Auto Correct	Correção automática básica
+frmInputSettings.cmdCCPresets	Presets	Presets
+frmInputSettings.cwGain	Gain	Ganho
+frmInputSettings.cmdColorWheelsDisplay	Display: Colour Wheels	Display: Rodas de cores
+frmInputSettings.cwLift	Lift	Lift
+frmInputSettings.cwGamma	Gamma	Gama
+frmInputSettings.lblInfoDeinterlacing	Deinterlacing	Desentrelaçamento
+frmInputSettings.lblClickAction	Mouse Click Action	Rato Clique em Ação
+frmInputSettings.cmdChange	Change	Mudança
+frmInputSettings.lblSource	Blank	Em branco
+frmInputSettings.lblCategory	Category	Categoria
+frmInputSettings.cmdAudioSettings	Audio Settings	Configurações de áudio
+frmInputSettings.cmdCreateVirtualInput	Create Virtual Input	Criar Input Virtual
+frmInputSettings.chkMirror	Mirror	Espelho
+frmInputSettings.lblName	Name	Nome
+frmInputSettings.chkPlayActive	Automatically Play with Transition	Automaticamente Jogar com Transição
+frmInputSettings.lblAspectRatio	Aspect Ratio	Aspect Ratio
+frmInputSettings.chkPausePreview	Automatically Pause after Transition	Automaticamente pausa depois de Transição
+frmInputSettings.chkRestart	Automatically Restart with Transition	Reiniciar automaticamente com Transição
+frmInputSettings.chkDeinterlace	Deinterlace Blend	Mistura de desentrelaçamento
+frmInputSettings.chkAutoMixAudio	Automatically mix audio	Automaticamente mix de áudio
+frmInputSettings.chkSharpen	Sharpen	Aguçar
+frmInputSettings.lblInfoResolution	Resolution	Resolução
+frmInputSettings.lblInfoSourceAspectRatio	Source Aspect Ratio	Fonte Aspect Ratio
+frmInputSettings.lblInfoFrameRate	Frame Rate	Frame Rate
+frmInputSettings.lblPTZProvider	Device Type	Tipo de dispositivo
+frmInputSettings.chkPTZInputThumbnail	Always show thumbnail in input preview	Sempre mostrar miniatura na visualização de entrada
+frmInputSettings.lblConnectionName	URL	URL
+frmInputSettings.cmdPTZConnect	Connect	Conectar
+frmInputSettings.chkTally	Tally	Tally
+frmInputSettings.chkFocus	Focus	Foco
+frmInputSettings.lblZoom	Zoom	Ampliação
+frmInputSettings.lblPositionSpeed	Position Speed	velocidade posição
+frmInputSettings.lblPTSpeed	Speed	Velocidade
+frmInputSettings.lblPTZSupport	PTZ (Pan Tilt Zoom) camera control is available in the 4K and Pro editions of vMix. Visit www.vmix.com for more information,	PTZ (Pan Tilt Zoom) de controle da câmera está disponível no 4K e Pro edições do vMix. Visite www.vmix.com para mais informações,
+frmInputSettings.cmdExportMultiView	Export	Exportar
+frmInputSettings.cmdImportMultiView	Import	Importar
+frmInputSettings.cmdRemoveMultiView	Remove	Remover
+frmInputSettings.cmdAddMultiView	Add	Adicionar
+frmInputSettings.lblTriggerMix	Mix	Misturar
+frmInputSettings.cmdDeleteTrigger	Delete	Excluir
+frmInputSettings.cmdEditTrigger	Edit	Editar
+frmInputSettings.cmdAddTrigger	Add	Adicionar
+frmInputSettings.chkRec601Fix	Rec. 601 to 709	Rec. 601 a 709
+frmInputSettings.lblBlue	Blue	Azul
+frmInputSettings.chkPremultipliedAlpha	Premultiplied Alpha	Alpha premultiplied
+frmInputSettings.lblGreen	Green	Verde
+frmInputSettings.lblSaturation	Saturation	Saturação
+frmInputSettings.lblRed	Red	Vermelho
+frmInputSettings.lblAlpha	Alpha	Alfa
+frmInputSettings.cmdAuto	Auto	Carro
+frmInputSettings.cmdAutoWhiteBalance	Auto White Balance	Auto Balanço de Branco
+frmInputSettings.cmdReset	Reset	Redefinir
+frmInputSettings.lblWhiteStretch	White Stretch	Trecho Branco
+frmInputSettings.lblBlackStretch	Black Stretch	Black Stretch
+frmInputSettings.chkColorCorrectionSource	Use Source Settings	Usar configurações da Fonte
+frmInputSettings.cmdClose	Close	Fechar
+frmInputSettings.cmdApply	Apply	Aplicar
+frmInputSettings.lblFilters	Filters	Filtros
+frmInputSettings.lblDelayFrames	frames	quadros
+frmInputSettings.lblDelay	Delay	Atraso
+frmInputSettings.cmdProperties	Properties	Propriedades
+frmInputSettings.lblOtherTallyInfo	For information on other Tally Light options, see the Tally Lights tab in Settings	Para obter informações sobre outras opções de Tally Light, consulte o guia Tally Luzes em Configurações
+frmInputSettings.lblOtherTally	Other Tally Lights	Outros Luzes Tally
+frmInputSettings.lblArduino	Arduino Tally Lights	Arduino Tally Luzes
+frmInputSettings.lblTallyStatusLabel	Status	Estado
+frmInputSettings.lblComPort	COM Port	COM Port
+frmInputSettings.lblTallyNumber	Tally Number	Número Tally
+frmInputSettings.chkColorKey	Colour Key	Das cores
+frmInputSettings.Label1	Auto Chroma Key Presets	Presets chroma key Auto
+frmInputSettings.chkAntiAliasing	Anti Aliasing	Anti Aliasing
+frmInputSettings.chkGreenFilter	Chroma Key Filter	Chroma Key Filtro
+frmInputSettings.cmdResetTolerance	Reset	Redefinir
+frmInputSettings.lblChromaKey	Chroma Key	Chroma Key
+frmInputSettings.lblRedKey	Red	Vermelho
+frmInputSettings.lblBlueKey	Blue	Azul
+frmInputSettings.lblGreenKey	Green	Verde
+frmInputSettings.lblLumaKey	Luma Key	Mordida chave
+frmInputSettings.lblKeyFill	Key/Fill Input	Chave / Preencher Input
+frmInputSettings.cmdCopy	Copy From...	Copiar de...
+frmInputSettings.tMenu.General	General	Geral
+frmInputSettings.tMenu.Colour Adjust	Colour Adjust	Ajustar cores
+frmInputSettings.tMenu.Colour Key	Colour Key	Chave Cor
+frmInputSettings.tMenu.Colour Correction	Colour Correction	Correção de cores
+frmInputSettings.tMenu.Effects	Effects	Efeitos
+frmInputSettings.tMenu.Position	Position	Posição
+frmInputSettings.tMenu.Layers / Multi View	Layers / Multi View	Camadas / Visualização múltipla
+frmInputSettings.tMenu.Triggers	Triggers	Triggers
+frmInputSettings.tMenu.Tally Lights	Tally Lights	Luzes Tally
+frmInputSettings.tMenu.PTZ	PTZ	PTZ
+frmInputSettings.tMenu.Advanced	Advanced	Avançado
+frmOverlay.frmOverlay	Overlay Settings	Configurações de sobreposição
+frmOverlay.chkDisplayUnderneath	Display underneath Overlays	Exibir abaixo das sobreposições
+frmOverlay.rFrames	Frames	Frames
+frmOverlay.rMilliseconds	Milliseconds	Milissegundos
+frmOverlay.rFrames	Frames	Frames
+frmOverlay.rMilliseconds	Milliseconds	Milissegundos
+frmOverlay.lblStingerInput	Stinger Input:	Stinger de entrada:
+frmOverlay.lblStingerMilliseconds	(0 to disable)	(0 para desativar)
+frmOverlay.lblStingerCut	Stinger Cut Point:	Stinger ponto de corte:
+frmOverlay.lblAlpha	Alpha:	Alpha:
+frmOverlay.cmdCancel	Cancel	Cancelar
+frmOverlay.lblMilliseconds2	(0 to disable)	(0 para desativar)
+frmOverlay.lblOverlayDuration	Duration:	Duração:
+frmOverlay.lblMilliseconds	Milliseconds	Milissegundos
+frmOverlay.lblDuration	Effect Duration:	Duração do efeito:
+frmOverlay.lblOverlayEffect	Effect:	Efeito:
+frmOverlay.lblOverlayNumber	Number:	Número:
+frmOverlay.lblDragTip	To adjust position, drag the red box or hold down shift to resize	Para ajustar a posição, arraste a caixa vermelha ou mantenha pressionada a tecla Shift para redimensionar
+frmOverlay.lblRadius	Radius:	Raio:
+frmOverlay.lblThickness	Thickness:	Espessura:
+frmOverlay.lblColour	Colour:	Cor:
+frmOverlay.lblBorder	Border	Fronteira
+frmOverlay.cmdResetRotate	Reset	Redefinir
+frmOverlay.cmdResetZoomY	Reset	Redefinir
+frmOverlay.cmdResetZoomX	Reset	Redefinir
+frmOverlay.lblZoomY	Zoom Y:	Zoom Y:
+frmOverlay.lblRotateZ	Rotate:	Girar:
+frmOverlay.lblZoomX	Zoom X:	Zoom X:
+frmOverlay.cmdResetPanY	Reset	Redefinir
+frmOverlay.cmdResetPanX	Reset	Redefinir
+frmOverlay.cmdResetZoom	Reset	Redefinir
+frmOverlay.lblPanY	Pan Y:	Pan Y:
+frmOverlay.lblPanX	Pan X:	Pan X:
+frmOverlay.lblZoom	Zoom:	Zoom:
+frmOverlay.lblPIPLocation	Picture In Picture Location	Picture In Localização Imagem
+frmOverlay.lblOverlayType	Type:	Tipo:
+frmPlaylist.frmPlaylist	PlayList	PlayList
+frmPlaylist.chkManual	Manual Mode	Modo Manual
+frmPlaylist.chkClearOverlay	Clear Overlays	Sobreposições Limpar
+frmPlaylist.cmdPrevious	Previous	Anterior
+frmPlaylist.chkBeginSelected	Begin from selected item	Comece a partir do item selecionado
+frmPlaylist.cmdNext	Next	Próximo
+frmPlaylist.chkLoop	Loop	Laço
+frmPlaylist.lblAvailableInputs	Available Inputs	Entradas disponíveis
+frmPlaylist.lblPlayList	Playlist	Playlist
+frmPlaylist.cmdCreatePlayList	New PlayList	Nova lista de reprodução
+frmPlaylist.cmdDeletePlayList	Delete PlayList	Excluir PlayList
+frmPlaylist.cmdClose	Close	Fechar
+frmPlaylist.cmdStartStop	Start	Início
+frmPlayListItem.frmPlayListItem	PlayList	PlayList
+frmPlayListItem.lblDisplayType	Display Type:	Tela Tipo:
+frmPlayListItem.lblVideo	Video:	Vídeo:
+frmPlayListItem.lblStartingPosition	Starting Position:	Posição inicial:
+frmPlayListItem.lblTransitionDuration	Transition Duration (in Milliseconds):	Duração de transição (em milissegundos):
+frmPlayListItem.lblTransition	Transition:	Transição:
+frmPlayListItem.Cancel_Button	Cancel	Cancelar
+frmPlayListItem.lblDuration	Duration:	Duração:
+frmPlayListSave.frmPlayListSave	Create PlayList	Criar PlayList
+frmPlayListSave.chkCopy	Copy Current PlayList	Copie PlayList atual
+frmPlayListSave.lblSavePlaylist	Select a name for the new PlayList. Each PlayList will be added to the open Preset	Escolha um nome para a nova lista. Cada lista será adicionada ao preset aberto
+frmPlayListSave.cmdCancel	Cancel	Cancelar
+frmRecordingInfo.frmRecordingInfo	Recording Information	Informação de gravação
+frmRecordingInfo.lblSize	Size:	Tamanho:
+frmRecordingInfo.gBuffer	Buffer	Amortecedor
+frmRecordingInfo.lblRead	Read:	Leia-se:
+frmRecordingInfo.lblWrite	Write:	Escrever:
+frmRecordingInfo.gDroppedFrames	Dropped Frames	Quadros perdidos
+frmRecordingInfo.lblTotalThisSession	Total This Session:	Este total da sessão:
+frmRecordingInfo.lblHardDiskCpu	Due To Hard Disk/CPU:	Devido ao disco rígido / CPU:
+frmRecordingInfo.lblSourceFrameRate	Due To Source Frame Rate:	Devido a Frame Rate Fonte:
+frmRecordingInfo.lblTotalThisRecording	Total This Recording:	Este total de gravação:
+frmRecordingInfo.lblAudioDevice	Audio Device:	Dispositivo de áudio:
+frmRecordingInfo.lblSystem	System:	Sistema:
+frmRecordingInfo.lblCodec	Codec:	Codec:
+frmRecordingInfo.lblDuration	Duration:	Duração:
+frmRecordingInfo.lblFilename	Filename:	Nome do arquivo:
+frmRecordingInfo.cmdClose	Close	Fechar
+frmRecordingSetup.frmRecordingSetup	Recording Setup	Configuração de gravação
+frmRecordingSetup.lblVMXQuality	Quality:	Qualidade:
+frmRecordingSetup.lblKbps	Kbps	Kbps
+frmRecordingSetup.lblAudioBitRate	Audio Bit Rate:	Áudio Bit Rate:
+frmRecordingSetup.lblMinutes	Minutes	Minutos
+frmRecordingSetup.lblRestart	New File Every:	Cada novo arquivo:
+frmRecordingSetup.lblSize	Size:	Tamanho:
+frmRecordingSetup.cmdBrowse	Browse	Procurar
+frmRecordingSetup.lblFilename	Filename:	Nome do arquivo:
+frmRecordingSetup.lblSystem	Frame Rate:	Frame Rate:
+frmRecordingSetup.lblCodec	Codec:	Codec:
+frmRecordingSetup.lblMilliseconds	Milliseconds	Milissegundos
+frmRecordingSetup.lblAudioDelay	Audio Delay:	Delay de áudio:
+frmRecordingSetup.lblAudio	Audio:	Áudio:
+frmRecordingSetup.chkFragmented	Fault Tolerant	Tolerante a falhas
+frmRecordingSetup.lblMp4Format	Profile:	Perfil:
+frmRecordingSetup.chkHardwareAcceleration	Use Hardware Encoder	Use Encoder Hardware
+frmRecordingSetup.cmdCancel	Cancel	Cancelar
+frmRecordingSetup.lblMbps	Mbps	Mbps
+frmRecordingSetup.lblMPEGBitRate	Bit Rate:	Taxa de Bits:
+frmRecordingSetup.lblFileFormat	File Format:	Formato de arquivo:
+frmRecordingSetup.lblMpegFileFormat	TS (Transport Stream) is recommended for Editing.	TS (Transport Stream) é recomendado para edição.
+frmRecordingSetup.lblHttpPort	HTTP Port:	HTTP Port:
+frmRecordingSetup.lblAudioCodec	Audio Codec:	Codec de áudio:
+frmRecordingSetup.lblWMVCodec	Codec:	Codec:
+frmRecordingSetup.lblQuality	Quality:	Qualidade:
+frmRecordingSetup.lblFPS	FPS:	FPS:
+frmRecordingSetup.lblBitRate	Bit Rate:	Taxa de Bits:
+frmRecordingSetup.lblFFMPEGABitrate	Audio Quality:	Qualidade Áudio:
+frmRecordingSetup.lblFFMPEGVBitrate	Video Quality:	Qualidade De Vídeo:
+frmRecordingSetup.lblFFMPEGExt	Format:	Formato:
+frmRecordingSetup.lblFFMPEGFormat	Codec:	Codec:
+frmRecordingSetup.cmdAudioRecording	WAV File Record	Grave WAV Arquivo
+frmRecordingSetup.tMenu.AVI	AVI	AVI
+frmRecordingSetup.tMenu.MPEG-2	MPEG-2	MPEG-2
+frmRecordingSetup.tMenu.WMV	WMV	WMV
+frmRecordingSetup.tMenu.WMV Streaming	WMV Streaming	WMV Streaming
+frmRecordingSetup.tMenu.FFMPEG	FFMPEG	FFMPEG
+frmRecordingSetup.tMenu.vMix AVI	vMix AVI	vMix AVI
+frmRecordingSetup.chkEnabled	Enabled	ativado
+frmRegistration.frmRegistration	vMix Registration	Vmix Registo
+frmRegistration.lnkBasic	Visit https://register.vmix.com/ to register for the FREE Basic Edition	Visite https://register.vmix.com/ para se inscrever para o FREE Basic Edition
+frmRegistration.cmdCancel	Cancel	Cancelar
+frmRegistration.lblInternetAccess	Internet access required to complete Registration	Acesso à Internet necessário para concluir inscrição
+frmRegistration.lblRegistration	Registration	Registro
+frmRegistration.lblEmailAddressB	Email Address	Endereço de e-mail
+frmRegistration.rTrial	Register for a fully functional 60 Day Trial	Registo para um teste completamente funcional Dia 60
+frmRegistration.lnkvMix	Visit http://www.vmix.com/ to purchase a Registration Key	Visite http://www.vmix.com/ para comprar uma chave de registro
+frmRegistration.lblEmailAddressA	Email Address	Endereço de e-mail
+frmRegistration.lblKey	Key	Chave
+frmRegistration.rFree	Register for the FREE Basic Edition	Inscreva-se no Free Edition Básica
+frmRegistration.rKey	I have a Registration Key	Eu tenho uma chave de inscrição
+frmSettings.frmSettings	Settings	Configurações
+frmSettings.lblProductName	vMix	Vmix
+frmSettings.lnkLicenses	View Open Source Licenses	Ver licenças de código aberto
+frmSettings.lnkPrivacyPolicy	View Privacy Policy	Ver Política de Privacidade
+frmSettings.lnkEULA	View End User Licensing Agreement	Ver Acordo de Licença de Usuário Final
+frmSettings.cmdSendReport	Send Support Report	Enviar relatório Suporte
+frmSettings.chkUpdateCheck	Check for updates on startup	Verifique se há atualizações na inicialização
+frmSettings.lblFeatures	Features:	Características:
+frmSettings.lblCaptureInputs	Capture Inputs:	Captura de Entradas:
+frmSettings.lblInputs	Inputs:	Entradas:
+frmSettings.lblMaximumSize	Maximum Size:	Tamanho máximo:
+frmSettings.lblExpiryDate	Expiry Date:	Data de validade:
+frmSettings.lblVersion	Version:	Versão:
+frmSettings.cmdChangeRegistration	Change Registration Key	Alterar Chave de Registro
+frmSettings.chkNDIThumbnails	Show preview thumbnails when browsing NDI sources	Mostrar miniaturas de visualização ao navegar em fontes NDI
+frmSettings.chkPerformanceAlerts	Show GPU / CPU alerts	Mostrar alertas da GPU / CPU
+frmSettings.lblDisplayMethod	Display Method:	Método de exibição:
+frmSettings.chkDisableWindowsUpdate	Disable Windows Update when vMix is running	Desativar o Windows Update quando vMix estiver sendo executado
+frmSettings.lblHighPerformanceMode	For graphics cards with 3GB+ memory only	Para placas gráficas com apenas 3 GB de memória
+frmSettings.chkHighPerformanceMode	High Input Performance Mode	Modo de alto desempenho de entrada
+frmSettings.Label1	Graphics Adapter:	Adaptador gráfico:
+frmSettings.chkNDIFeim	NDI Faulty encoder isolation mode	E modo de isolamento do codificador com defeito
+frmSettings.chkPerfReadLock	High Output Performance Mode	Modo de desempenho de alta saída
+frmSettings.chkGTSurfaceLock	Lock GT Surfaces	Lock GT Surfaces
+frmSettings.lblPreviewSkip	Preview Skip:	Ir visualização:
+frmSettings.chkDirect3D9ExPreview	Enable FlipEx on Previews	Ativar FlipEx em Previews
+frmSettings.chkOptimus	Enable Optimus Graphics compatibility	Habilitar a compatibilidade Optimus Graphics
+frmSettings.lblApplicationPriority	Application Priority:	Prioridade de aplicação:
+frmSettings.chkDirect3D9Ex	Enable FlipEx on Fullscreen	Ativar FlipEx em Fullscreen
+frmSettings.lblOutputFormat	Output Format:	Formato de saída:
+frmSettings.lblVideoRenderer	Video Renderer:	Video Renderer:
+frmSettings.chkLockBackBuffer	Synchronize Output with Refresh Rate	Sincronizar saída com taxa de atualização
+frmSettings.chkYUVFix	Automatically convert 16-235 to 0-255 for YUV inputs	Converter automaticamente a 16-235 0-255 para entradas YUV
+frmSettings.chkMemoryLock	Memory Lock	Memória Bloqueada
+frmSettings.chkDisableInputEffects	Disable Effects on Input Previews	Desativar Efeitos sobre Previews entrada
+frmSettings.lblActiveAdapter	In Use: None	Em Uso: None
+frmSettings.lblAdapter	Graphics Adapter:	Graphics Adapter:
+frmSettings.chkCaptureLowLatency	Low Latency Capture	Baixa Captura Latência
+frmSettings.chkTCPLanOnly	Restrict access to LAN only	Restringir o acesso apenas à LAN
+frmSettings.chkWebLANOnly	Restrict access to LAN only	Restringir o acesso apenas à LAN
+frmSettings.lblTCPAPI	TCP API:	API TCP:
+frmSettings.chkTCPAPI	Enabled	Habilitado
+frmSettings.chkWebSecurity	Enable enhanced security on Web and TCP API	Habilite a segurança aprimorada na Web e API TCP
+frmSettings.chkWebLocalhostAccess	Allow software on this computer access without login.	Permitir acesso ao software neste computador sem fazer login.
+frmSettings.lblWebPermit	Allow access to following pages without login:	Permitir acesso às seguintes páginas sem login:
+frmSettings.lblWebPassword	Password:	Senha:
+frmSettings.lblUsername	Username:	Nome de usuário:
+frmSettings.lblWebControllerDescription	TIP: The Web Site Address above can be used to control vMix from any device on the same network including Android, iPad, Surface and Mobile Phones. Simply type it into the browser on that device.	DICA: o endereço do site acima pode ser usado para controlar vMix partir de qualquer dispositivo na mesma rede, incluindo Android, iPad, Superfície e telefones celulares. Simplesmente digite-o no navegador no dispositivo.
+frmSettings.txtWebServerLink	Not Enabled	Não ativado
+frmSettings.chkWebServerEnabled	Enabled	Habilitado
+frmSettings.lblWebServerAddress	Web Site Address:	Endereço do site:
+frmSettings.lblPort	Port:	Port:
+frmSettings.lblAudioDrop	Audio Gap Handling:	Tratamento de lacunas de áudio:
+frmSettings.chkAudioMixerFollowsCategories	Hide Audio Mixers based on selected Category	Ocultar mixers de áudio com base na categoria selecionada
+frmSettings.chkNotificationSounds	Enable Notification Sounds (for Video Call messages etc)	Ativar sons de notificação (para mensagens de videochamada, etc.)
+frmSettings.cmdTestVoice	Test	Teste
+frmSettings.lblVoiceShortcuts	Voice Shortcuts	Atalhos de voz
+frmSettings.chkVoice	Enabled	ativado
+frmSettings.lblVoiceAudio	Audio Source:	Fonte de áudio:
+frmSettings.lblVoiceConfidence	Confidence:	Confiança:
+frmSettings.lblAudioSource	Recording Audio:	Gravação de Áudio:
+frmSettings.lblAudioSourceDescription	The selected Audio Device will be used for Recording, Streaming and External Output	O dispositivo de áudio selecionado será usado para a gravação, streaming e de saída externa
+frmSettings.lblAudioSourceFormat	Format:	Formato:
+frmSettings.lblMasterBitRate	Master Bit Rate:	Taxa de Bits mestre:
+frmSettings.lblSamplingRate	Master Sample Rate:	Taxa de amostragem mestre:
+frmSettings.lblAudioDelayMilliseconds	milliseconds	milissegundos
+frmSettings.lblDefaultAudioDelay	Default Input Audio Delay:	Entrada padrão de áudio de atraso:
+frmSettings.chkFTBAudio	Fade To Black includes Audio	Fade to Black inclui áudio
+frmSettings.chkInputAudioMeter	Show Audio Meter next to Inputs	Mostrar medidor de áudio ao lado de Entradas
+frmSettings.chkAutoAudioMixing	Automatically Mix Audio	Automaticamente mix de áudio
+frmSettings.chkMasterAudioMeter	Show Master Audio Meter in Main Window	Mostrar medidor Master Audio na janela principal
+frmSettings.chkSonyPTZNDI	Enable Sony VISCA over IP with NDI	Habilitar Sony VISCA sobre IP com NDI
+frmSettings.chkStartSRTOutput	Start SRT Output	Iniciar saída SRT
+frmSettings.chkGlobalDataSources	Save Data Sources in Global Settings	Salvar fontes de dados em configurações globais
+frmSettings.chkTBarTriggers	Enable Triggers on T-Bar	Ativar gatilhos na barra T
+frmSettings.chkControllerNotifications	Controller Plug And Play Enabled	Plug and Play do controlador ativado
+frmSettings.chkInputCloseConfirm	Display confirmation for Input Close button	Exibir confirmação para o botão Fechar entrada
+frmSettings.chkShowProductionClocks	Production Clocks	Relógios de produção
+frmSettings.chkShowFTB	FTB	FTB
+frmSettings.chkShowTBar	T-Bar	T-Bar
+frmSettings.chkShowTransition24	Transitions 2-4	Transições 2-4
+frmSettings.chkShowQuickPlay	QuickPlay	Jogo rápido
+frmSettings.lblTransitionDisplay	Transition Display:	Exibição de Transição:
+frmSettings.chkShowOverlays	Overlay	Sobreposição
+frmSettings.chkControlSurfaceEnabled	vMix Control Surface Enabled	Superfície de Controle vMix Ativado
+frmSettings.chkMultiInstance	Enable Multiple Instances	Permitir várias instâncias
+frmSettings.chkRememberWindowPosition	Remember Window Position	Lembre-Posição da janela
+frmSettings.chkRecordingConfirm	Display confirmation for Record, External, Stream and MultiCorder buttons	Confirmação de exibição para Record, externas, Corrente e MultiCorder botões
+frmSettings.chkPreviewClick	Activate QuickPlay by clicking Preview Window	Ative QuickPlay clicando janela de visualização
+frmSettings.lblLanguage	Language:	Idioma:
+frmSettings.chkExternal	Start External Output	Iniciar Saída Externa
+frmSettings.chkPausePreview	Automatically Pause Preview Input after Transition	Pré-visualização de entrada automaticamente após a pausa de Transição
+frmSettings.chkMaximised	Start Maximised	Comece maximizada
+frmSettings.chkAdvanced	Start in Advanced mode	Iniciar no Modo avançado
+frmSettings.chkRestartActive	Automatically Restart Output Input with Transition	Reiniciar automaticamente Input Output com Transição
+frmSettings.chkFullscreen	Start Fullscreen display	Iniciar a apresentação Fullscreen
+frmSettings.chkPlayActive	Automatically Play Output Input with Transition	Jogue automaticamente Input Output com Transição
+frmSettings.lblMilliseconds	Milliseconds	Milissegundos
+frmSettings.lblQuickPlayTransition	QuickPlay Transition:	Transição QuickPlay:
+frmSettings.lblQuickPlayDuration	QuickPlay Duration:	Duração QuickPlay:
+frmSettings.chkRecordingAlert	Display alert on UI and MultiView when NOT Recording	Exibir alerta na IU e MultiView quando NÃO estiver gravando
+frmSettings.lblRecordingAlert	No Recording Alert	Sem Alerta de Gravação
+frmSettings.chkFTBAlert	Display alert on UI and MultiView when Fade To Black (FTB) enabled	Exibir alerta na IU e MultiView quando Fade To Black (FTB) ativado
+frmSettings.lblFTBAlert	Fade To Black Alert	Fade to Black Alert
+frmSettings.lblAlertSeconds	seconds.	segundos.
+frmSettings.lblAlertDB	dB for	dB para
+frmSettings.chkVolumeAlert	Display alert on UI and MultiView when Volume drops below	Exibir alerta na IU e MultiView quando o volume cair abaixo
+frmSettings.lblVolumeAlert	Volume Alert	Alerta de Volume
+frmSettings.cmdMVInputs	Customise Layout	Personalize o layout
+frmSettings.lblOutputsDescription	Description	Descrição
+frmSettings.lblNDIAdditional	Additional NDI Outputs	Adicional com saídas
+frmSettings.lblName	Output	Saída
+frmSettings.cmdNDI	NDI OFF	COM Off
+frmSettings.lblName	Output	Saída
+frmSettings.cmdNDI	NDI OFF	COM Off
+frmSettings.lblOutputsOverlay	Overlays	Sobreposições
+frmSettings.lblOutputsSource	Source	Fonte
+frmSettings.lblName	Output	Saída
+frmSettings.cmdNDI	NDI OFF	COM Off
+frmSettings.lblName	Output	Saída
+frmSettings.cmdNDI	NDI OFF	COM Off
+frmSettings.lblName	Output	Saída
+frmSettings.cmdNDI	NDI OFF	COM Off
+frmSettings.lblName	Output	Saída
+frmSettings.cmdNDI	NDI OFF	COM Off
+frmSettings.lblName	Output	Saída
+frmSettings.cmdNDI	NDI OFF	COM Off
+frmSettings.lblName	Output	Saída
+frmSettings.cmdNDI	NDI OFF	COM Off
+frmSettings.cmdMVStandard	Legacy	Legado
+frmSettings.lblMultiViewLayout	MultiView Layout	MultiView Disposição
+frmSettings.chkInputNumbers	Show Input Numbers	Mostra de Números
+frmSettings.lblFullscreen	Fullscreen:	Tela cheia:
+frmSettings.cmdDisplay2	Fullscreen 2	Tela cheia 2
+frmSettings.cmdDisplay1	Fullscreen 1	Tela cheia 1
+frmSettings.lblActiveColour	Output Colour:	Cor de saída:
+frmSettings.lblPreviewColour	Preview Colour:	Cor previsão:
+frmSettings.lblOutputSize	Output Size:	Tamanho de saída:
+frmSettings.lblOutputAspectRatio	Output Aspect Ratio:	Proporção de saída:
+frmSettings.lblInputSize	Input Size:	Tamanho de entrada:
+frmSettings.lblOutputScreen	Display:	Display:
+frmSettings.lblTheme	Theme:	Tema:
+frmSettings.lblSystem	Master Frame Rate:	Mestre Frame Rate:
+frmSettings.chkOutputMinimise	Minimise	Minimizar
+frmSettings.chkOutputAlwaysOnTop	On Top	On Top
+frmSettings.lblOutputPosition	Position:	Posição:
+frmSettings.chkOutputHideCursor	Hide Cursor	Ocultar Cursor
+frmSettings.lblDefaultAudioBus	Default Bus for New Inputs	Bus padrão para novas entradas
+frmSettings.lblDefaultAudioRenderer	Master Output	Saída Master
+frmSettings.lblHeadphonesAudio	Headphones	Fones de ouvido
+frmSettings.cmdFind	Find	Encontrar
+frmSettings.cmdSCJoystick	Joystick	Controle de video game
+frmSettings.cmdSCShuttle	Shuttle PRO	shuttle PRO
+frmSettings.cmdSCXKeys	Surface	Superfície
+frmSettings.cmdSCKB	Keyboard	Teclado
+frmSettings.cmdSCMIDI	MIDI	TARDE
+frmSettings.cmdSCAll	All	Todos
+frmSettings.cmdCloneShortcut	Clone	Clone
+frmSettings.cmdMIDI	MIDI Settings	Configurações MIDI
+frmSettings.cmdTemplates	Templates	Modelos
+frmSettings.cmdEditShortcut	Edit	Editar
+frmSettings.cmdRemoveShortcut	Remove	Remover
+frmSettings.cmdAddShortcut	Add	Adicionar
+frmSettings.chkExternalUseDisplaySettings	Use Display Settings	Usar configurações de exibição
+frmSettings.chkExternalUseStreamingSettings	Use Streaming Settings	Use configurações de transmissão
+frmSettings.cmdAux2	External 2	Externa 2
+frmSettings.cmdAux1	External	Externo
+frmSettings.cVirtual	vMix Video / Streaming	vMix Video / Transmissão
+frmSettings.cDeckLink	External Renderer	Renderer externo
+frmSettings.lblExSystem	Frame Rate:	Frame Rate:
+frmSettings.lblExtAlpha	Alpha Channel:	Canal Alfa:
+frmSettings.lblExtAudioChannels	Audio Channels:	Canais de Áudio:
+frmSettings.lblExPort	Port:	Port:
+frmSettings.lblExDevice	Device:	Dispositivo:
+frmSettings.lblExAudioDevice	Audio Device:	Dispositivo de áudio:
+frmSettings.lblDelayInfo	This sets a delay on the audio input in milliseconds. For example if the audio is earlier than the video by 200ms, type in 200 here	Isto configura um atraso na entrada de áudio em milissegundos. Por exemplo, se o áudio é mais cedo do que o vídeo por 200ms tipo, em 200 aqui
+frmSettings.lblAudioDelay	Audio Delay:	Delay de áudio:
+frmSettings.lblExOutputSize	Output Size:	Tamanho de saída:
+frmSettings.chkAdvancedSettings	Show Advanced Settings	Mostrar configurações avançadas
+frmSettings.cmdCancel	Cancel	Cancelar
+frmSettings.chkInterlaced	Interlaced Recording	Gravação entrelaçado
+frmSettings.lblDefaultFolder	Default Folder for Recordings	Pasta padrão para Gravações
+frmSettings.lblRecordingFilenameFormat	Filename Format	Formato de arquivo
+frmSettings.cmdBrowse	Browse	Procurar
+frmSettings.chkRecordingSetup	Automatically Setup Recording With Previous Settings	Automaticamente configuração de gravação Com configurações anteriores
+frmSettings.lblRecordingMemoryBuffer	Recording Memory Buffer	Buffer de memória de gravação
+frmSettings.lblBuffer	5 Frames (Between 20 MB and 40 MB for 1080p)	5 quadros (entre 20 MB e 40 MB para 1080p)
+frmSettings.lblFFMpegFormats	Play the file types below using the FFMPEG decoder (Example: *.mov,*.qt,*.mxf)	Jogue os tipos de arquivo a seguir usando o decodificador FFMPEG (Exemplo:. *. Mov, qt *, * MXF)
+frmSettings.lblFFMPEG	FFMPEG:	FFMPEG:
+frmSettings.lblDirectShow	DirectShow:	DirectShow:
+frmSettings.lblCamera	Camera:	Câmara:
+frmSettings.lblVideo	Video Playback:	Reprodução de vídeo:
+frmSettings.lblDeinterlacing	Preferred Deinterlacing:	Desentrelaçamento preferidos:
+frmSettings.cmdBlockedFilterList	Blocked Filter List	Bloqueados lista de filtros
+frmSettings.lblDirectShowFilters	Filters:	Filtros:
+frmSettings.lblMPEG2Video	MPEG 2 Video:	MPEG Video 2:
+frmSettings.cmd264Properties	Properties	Propriedades
+frmSettings.cmdProperties	Properties	Propriedades
+frmSettings.lblMPEGAudio	MPEG Audio:	MPEG Audio:
+frmSettings.lblx264Video	x264 Video:	x264 Video:
+frmSettings.chkDeinterlace	Use vMix Deinterlacing	Use Vmix Deinterlacing
+frmSettings.cmdAudioProperties	Properties	Propriedades
+frmSettings.cmdStopAllScripts	Stop All	Parar tudo
+frmSettings.cmdStartStopScript	Start	Começo
+frmSettings.cmdRemoveScript	Remove	Remover
+frmSettings.cmdEditScript	Edit	Editar
+frmSettings.cmdAddScript	Add	Adicionar
+frmSettings.chkRadioFarEnabled	Enabled	ativado
+frmSettings.lblRadioFar	Radio-Far Tally Lights	Radio-Far Tally Luzes
+frmSettings.lblTallyLightsLLCDescription	These tallys are automatically enabled when plugged in and are assigned to the Input number	Estes Tallys são ativados automaticamente quando conectado e são atribuídos ao número de entrada
+frmSettings.lblTallyLightsLLC	Tally Lights LLC / metaSETZ	Tally Luzes LLC / metaSETZ
+frmSettings.lblWebTallyLightsHelp	Browse to the page below on any WiFi connected device to turn it into an instant Tally Light	Navegue até a página abaixo em qualquer dispositivo WiFi ligado a transformá-lo em um Tally Luz instantânea
+frmSettings.lblWebTallyLights	Web Tally Lights	Tally Luzes da Web
+frmSettings.lblArduino	Arduino Tally Lights	Arduino Tally Luzes
+frmSettings.cmdSwapPreviewActive	Swap Preview Active	Troque visualização ativas
+frmSettings.cmdTallyReset	Reset to Default	Redefinir para padrão
+frmSettings.cmdTallyLightsLegacy	Reset to Legacy Mode	Repor Legacy Mode
+frmSettings.lblDevicesNotice	No Devices have been enabled yet. Click Enable Devices to set them up.	Nenhum dispositivo ainda não foram ativados. Clique em Ativar Dispositivos para configurá-los.
+frmSettings.cmdDevices	Enable Devices	Ativar Devices
+frmSettings.cmdExport	Export	Exportar
+frmSettings.cmdImport	Import	Importar
+frmSettings.cmdRemove	Remove	Remover
+frmSettings.cmdClone	Clone	Clone
+frmSettings.cmdEdit	Edit	Editar
+frmSettings.cmdAdd	Add	Adicionar
+frmSettings.tMenu.Display	Display	Exibir
+frmSettings.tMenu.Outputs / NDI / SRT	Outputs / NDI / SRT	Saídas / I / SRT
+frmSettings.tMenu.Options	Options	Opções
+frmSettings.tMenu.Performance	Performance	Atuação
+frmSettings.tMenu.Decoders	Decoders	Descodificadores
+frmSettings.tMenu.Recording	Recording	Gravação
+frmSettings.tMenu.External Output	External Output	Saída externa
+frmSettings.tMenu.Audio	Audio	Auditivo
+frmSettings.tMenu.Audio Outputs	Audio Outputs	Saídas de Áudio
+frmSettings.tMenu.Web Controller	Web Controller	Controlador Web
+frmSettings.tMenu.Tally Lights	Tally Lights	Luzes Tally
+frmSettings.tMenu.Shortcuts	Shortcuts	Atalhos
+frmSettings.tMenu.Activators	Activators	ativadores
+frmSettings.tMenu.Scripting	Scripting	Scripting
+frmSettings.tMenu.Alerts	Alerts	Alertas
+frmSettings.tMenu.About	About	Sobre
+frmSettings.cmdImport	Import	Importar
+frmSettings.cmdDefault	Default	Omissão
+frmSettings.cmdExport	Export	Exportar
+frmWizard.frmWizard	vMix Configuration	Vmix Configuração
+frmWizard.lblConfigureDescription	Select a starting configuration for vMix below. These settings can be customised later by clicking the Settings button.	Escolher uma configuração inicial para vMix abaixo. Essas configurações podem ser personalizadas mais tarde, clicando no botão Configurações.
+frmLanguage.frmLanguage	vMix Language	Vmix Língua
+frmLanguage.lblTranslation	Translations provided by Google Translate	Traduções fornecidas pelo Google Translate
+frmLanguage.cboLanguage	English	Inglês
+frmTextEditor.frmTextEditor	Title Editor	Editor de títulos
+frmTextEditor.tFont	Title Editor	Editor de títulos
+frmTextEditor.cmdClocks	Clocks	Relógios
+frmTextEditor.cmdBrowse	Browse	Procurar
+frmTextEditor.lblCountdown	Countdown	Contagem regressiva
+frmTextEditor.cmdCountdownSettings	Settings	Configurações
+frmTextEditor.cmdExport	Export	Exportação
+frmTextEditor.cmdImport	Import	Importação
+frmTextEditor.cmdClear	Clear	Limpar
+frmTextEditor.lblPresets	Presets	Presets
+frmTextEditor.tabImages	Images	Imagens
+frmTextEditor.tabColor	Color	Cor
+frmTextEditor.tabText	Text	Texto
+frmTextEditor.cmdLiveEdit	Live	Viver
+frmDuration.frmDuration	Duration	Duração
+frmDuration.gAnimation	Animation	Animação
+frmDuration.lblDuration	Duration	Duração
+frmDuration.cmdCancel	Cancel	Cancelar
+frmMultiCorder.frmMultiCorder	MultiCorder	MultiCorder
+frmMultiCorder.chkShowAllInputs	Show unsupported inputs	Mostrar entradas não suportadas
+frmMultiCorder.lblVMXQuality	Quality:	Qualidade:
+frmMultiCorder.chkPreserveFormat	Record NDI in original MOV format	Gravar NDI no formato MOV original
+frmMultiCorder.cmdvMix	vMix AVI	vMix AVI
+frmMultiCorder.cmdAudioRecording	WAV File Record	Grave WAV Arquivo
+frmMultiCorder.chkFragmented	Fault Tolerant	Tolerante a falhas
+frmMultiCorder.lblAudioBitRate	Audio Bit Rate:	Taxa de bits do áudio:
+frmMultiCorder.chkHardwareEncoder	Use Hardware Encoder	Use Hardware Encoder
+frmMultiCorder.lblBitRate	Video Bit Rate:	Taxa de bits de vídeo:
+frmMultiCorder.lblFFMPEGABitrate	Audio Quality:	Qualidade Áudio:
+frmMultiCorder.lblFFMPEGVBitrate	Video Quality:	Qualidade de vídeo:
+frmMultiCorder.lblFFMPEGExt	Format:	Formato:
+frmMultiCorder.lblFFMPEGFormat	Codec:	Codec:
+frmMultiCorder.cmdFFMPEG	FFMPEG	FFMPEG
+frmMultiCorder.lblMinutes	Minutes	Minutos
+frmMultiCorder.lblRestartInterval	New File Every:	Cada novo arquivo:
+frmMultiCorder.lblAudioSource	Audio:	Áudio:
+frmMultiCorder.cmdRecStartStop	Start	Começar
+frmMultiCorder.cmdTS	MPEG-2 TS	MPEG-2 TS
+frmMultiCorder.cmdMKV	MKV	MKV
+frmMultiCorder.cmdAVI	AVI	AVI
+frmMultiCorder.lblCodec	Codec:	Codec:
+frmMultiCorder.cmdBrowse	Change Recording Folder	Alterar Pasta de Gravação
+frmTallyLight.frmTallyLight	Edit Tally Light	Editar Tally Luz
+frmTallyLight.lblActivePin	Active Pin:	Pin atividade:
+frmTallyLight.lblPreviewPin	Preview Pin:	Pin Preview:
+frmTallyLight.Cancel_Button	Cancel	Cancelar
+frmShortcuts.frmShortcuts	Shortcuts	Atalhos
+frmShortcuts.cmdWebInterface	Web Controller	Controlador Web
+frmShortcuts.cmdEdit	Edit	Editar
+frmShortCut.frmShortCut	Add Shortcut	Adicionar Atalho
+frmShortCut.lblReplayChannel	Replay Channel:	Canal de repetição:
+frmShortCut.lblMix	Mix:	Misturar:
+frmShortCut.lblVoice	Phrase	Frase
+frmShortCut.lblStreamDeck	StreamDeck	StreamDeck
+frmShortCut.cmdDisplayBrowse	Browse	Squeaky toy
+frmShortCut.lblDisplayType	Display:	Exibição:
+frmShortCut.chkPressure	Pressure Enabled	Pressão habilitada
+frmShortCut.lblJSIndex	Index	Índice
+frmShortCut.lblJSButton	Button	Botão
+frmShortCut.chkControllerShow	Show in Web Controller	Show em Controlador Web
+frmShortCut.tabAll	All	Tudo
+frmShortCut.chkInputNumber	Assign Shortcut to Input Number	Atribuir Atalho para Número de entrada
+frmShortCut.lblMidiValueType	Type	Digitar
+frmShortCut.chkMidiValue	Value	Valor
+frmShortCut.lblMidiNote	Note	Nota
+frmShortCut.lblChannel	Channel	Canal
+frmShortCut.lblMilliseconds	Milliseconds	Milissegundos
+frmShortCut.cmdFindKey	Find ...	Procurar ...
+frmShortCut.lblCustomTitle	Title:	Título:
+frmShortCut.chkLocal	Local Shortcut (This Preset Only)	Atalho local (esta predefinição Only)
+frmShortCut.lblValue	Value:	Valor:
+frmShortCut.lblInput	Input:	Entrada:
+frmShortCut.lblDescription1	Description1:	Description1:
+frmShortCut.lblKey	Key/Control:	Key / controle:
+frmShortCut.lblSelectable	Video:	Vídeo:
+frmShortCut.lblDuration	Duration:	Duração:
+frmShortCut.lblFunc	Function:	Função:
+frmShortCut.lblDescription2	Description2:	Descrição2:
+frmShortCut.cmdRemove	&Remove	& Remover
+frmShortCut.lblTrigger	Trigger the following keys in addition to this Shortcut:	Acionar as teclas a seguir, além de este atalho:
+frmShortCut.cmdAdd	&Add	& Adicionar
+frmShortCut.cmdCancel	Cancel	Cancelar
+frmShortCut.tMenu.General	General	Geral
+frmShortCut.tMenu.Advanced	Advanced	Avançado
+frmPowerPoint.frmPowerPoint	PowerPoint	PowerPoint
+frmPowerPoint.chkBlackBorders	Add Black Borders	Adicionar Bordas Pretas
+frmPowerPoint.lblMilliseconds	Milliseconds	Milissegundos
+frmPowerPoint.lblTransition	Transition:	Transição:
+frmPowerPoint.lblEffect	Effect:	Efeito:
+frmPowerPoint.lblDuration	Duration:	Duração:
+frmPowerPoint.lblSeconds	Seconds	Segundos
+frmVirtualSet.frmVirtualSet	Virtual Set Zoom Editor	Editor de Zoom Virtual Set
+frmVirtualSet.Cancel_Button	Cancel	Cancelar
+frmVirtualSet.cmdResetRotate	Reset	Redefinir
+frmVirtualSet.cmdResetZoomY	Reset	Redefinir
+frmVirtualSet.cmdResetZoomX	Reset	Redefinir
+frmVirtualSet.lblZoomY	Zoom Y:	Zoom Y:
+frmVirtualSet.lblRotateZ	Rotate:	Girar:
+frmVirtualSet.lblZoomX	Zoom X:	Zoom X:
+frmVirtualSet.cmdResetPanY	Reset	Redefinir
+frmVirtualSet.cmdResetPanX	Reset	Redefinir
+frmVirtualSet.cmdResetZoom	Reset	Redefinir
+frmVirtualSet.lblPanY	Pan Y:	Pan Y:
+frmVirtualSet.lblPanX	Pan X:	Pan X:
+frmVirtualSet.lblZoom	Zoom:	Zoom:
+frmCountdown.frmCountdown	Countdown Settings	Configurações de contagem regressiva
+frmCountdown.lblCurrentTime	Current Time	Hora atual
+frmCountdown.chkReverseDisplay	Display (00:00:00) when Stopped	Display (00:00:00) quando parado
+frmCountdown.cmdCancel	Cancel	Cancelar
+frmCountdown.chkCountdownReverse	Reverse	Reverter
+frmCountdown.lblDisplayFormat	Display Format	Mostrar Formato
+frmCountdown.lblDuration	Duration	Duração
+frmCountdown.lblStartTime	Stop Time	Parar o tempo
+frmStreaming.frmStreaming	Streaming Settings	Configurações de streaming
+frmStreaming.lblProvider	Destination	Destino
+frmStreaming.chkUseStream1Quality	Use Stream 1 Quality	Use Stream 1 Quality
+frmStreaming.lblStream	Stream Name or Key	Córrego Nome ou Key
+frmStreaming.lblURL	URL	URL
+frmStreaming.cmdAdvanced	Advanced	Avançado
+frmStreaming.chkHWEncoding	Use Hardware Encoder	Encoder Use Hardware
+frmStreaming.cmdInfo	Sign Up	Inscrever-se
+frmStreaming.lblChannel	Channel	Canal
+frmStreaming.cmdLogin	Login and Update Channels	Acesso e atualização Canais
+frmStreaming.lblPassword	Password	Senha
+frmStreaming.lblUsername	Username	Nome de Usuário
+frmStreaming.lblQuality	Quality	Qualidade
+frmStreaming.lblStreamingType	Application	Aplicação
+frmStreaming.cmdDelete	Delete	Excluir
+frmStreaming.cmdAdd	Add	Adicionar
+frmStreaming.lblProfile	Profile	Perfil
+frmStreaming.cmdStartStopAll	Start All	Iniciar tudo
+frmStreaming.cmdLog	View Status	Ver Estado
+frmStreaming.cmdClose	Save and Close	Salvar e Fechar
+frmStreaming.cmdStartStop	Start	Começar
+frmActivate.frmActivate	vMix Activation	Ativação vMix
+frmActivate.lblActivationInformation	Your vMix Registration Key needs to be activated again due to a recent system change or software upgrade. Click Activate below to continue.	Sua Chave de Registro vMix precisa ser ativado novamente devido a uma mudança de sistema recente ou atualização de software. Clique em Ativar abaixo para continuar.
+frmActivate.cmdExit	Exit	Saída
+frmActivate.cmdActivate	Activate	Ativar
+frmActivate.lblInternetAccess	Internet access required to complete Activation	Acesso à Internet necessário para concluir a ativação
+frmActivate.lblRegistration	Activation	Ativação
+frmOpenPreset.frmOpenPreset	Open Preset	Abrir predefinida
+frmOpenPreset.cmdBundlePathBrowse	Browse	Navegar
+frmOpenPreset.lblBundlePath	Save Files in Bundle to Folder:	Salvar arquivos em pacote para pasta:
+frmOpenPreset.lblMessage	One or more files are missing, click Locate File for each item	Um ou mais arquivos estão faltando, clique em Localizar arquivo para cada item
+frmOpenPreset.cmdLocateFile	Locate File	Localize o arquivo
+frmOpenPreset.cmdUnselectAll	Unselect All	Desmarque todos
+frmOpenPreset.cmdCancel	Cancel	Cancelar
+frmOpenPreset.cmdAppend	Append	Anexar
+frmOpenPreset.cmdOpen	Open	Aberto
+frmEditCapture.frmEditCapture	Edit Capture	Editar Captura
+frmEditCapture.cmdRename	Edit	Editar
+frmEditCapture.cmdReset	Reset	Restabelecer
+frmEditCapture.cmdCancel	Cancel	Cancelar
+frmEditScript.frmEditScript	Edit Script	Editar Script
+frmEditScript.chkLocal	Local Script (This Preset Only)	Script local (somente esta predefinição)
+frmEditScript.lblName	Name	Nome
+frmEditScript.cmdImport	Import	Importação
+frmEditScript.cmdExport	Export	Exportação
+frmEditScript.OK_Button	Save	Salvar
+frmEditScript.Cancel_Button	Close	Fechar
+frmKeyFinder.frmKeyFinder	Find Control	Encontre Controle
+frmKeyFinder.lblMidi	Note: If you would like to use a MIDI controller, click here to to enable it first	Nota: Se você gostaria de usar um controlador MIDI, clique aqui para ativá-lo primeiro
+frmKeyFinder.cmdCancel	Cancel	Cancelar
+frmKeyFinder.lblMessage	Press a button on the keyboard or controller	Pressionar um botão no teclado ou o controlador
+frmShortcutTemplates.frmShortcutTemplates	Shortcut Templates	Modelos de atalho
+frmShortcutTemplates.lblDiagramType	Display as	Mostrar como
+frmShortcutTemplates.cmdApply	Apply	Aplicar
+frmShortcutTemplates.cmdClose	Close	Fechar
+frmShortcutTemplates.cmdSaveGraphic	Save Graphic	Salvar Graphic
+frmShortcutTemplates.cmdExport	Export	Exportação
+frmShortcutTemplates.cmdImport	Import	Importação
+frmNewPreset.frmNewPreset	New Preset	Nova predefinição
+frmNewPreset.lblNew	Create a new blank preset with the following video format	Criar uma nova predefinição em branco com o seguinte formato de vídeo
+frmNewPreset.cmdCancel	Cancel	Cancelar
+frmCloseConfirm.frmCloseConfirm	vMix	vMix
+frmCloseConfirm.lblCloseMessage	Are you sure you want to close vMix?	Tem certeza de que deseja fechar o vMix?
+frmCloseConfirm.lblMessage	Do you wish to save changes to the current preset?	Deseja salvar as alterações na predefinição atual?
+frmCloseConfirm.cmdOKNoClose	Save	Salvar
+frmCloseConfirm.cmdDiscardNoClose	Discard changes	Descartar mudanças
+frmCloseConfirm.cmdClose	Close	Fechar
+frmCloseConfirm.cmdDiscard	Discard changes and Close	Descartar alterações e Fechar
+frmCloseConfirm.cmdCancel	Cancel	Cancelar
+frmCloseConfirm.cmdOK	Save and Close	Salvar e fechar
+frmPackagePreset.frmPackagePreset	Save Preset Bundle	Salvar pacote predefinido
+frmPackagePreset.lblName	This preset bundle will contain the following files. Check to make sure you have enough disk space before continuing.	Este pacote predefinido conterá os seguintes arquivos. Verifique se você tem espaço em disco suficiente antes de continuar.
+frmPackagePreset.cmdCancel	Cancel	Cancelar
+frmPackagePreset.cmdSave	Save	Salve 
+UNDEFINED_ERROR	UNDEFINED_ERROR	UNDEFINED_ERROR
+RECORDING_NOT_READY	Recording has not been configured	A gravação não foi configurado
+EMPTY_FILENAME	Filename cannot be left blank	Nome do arquivo não pode ser deixado em branco
+DIRECT3D_SYSTEM_COPY_NOT_SUPPORTED	Recording is not supported by the installed graphics hardware. {newline}Performance will be adversely affected	A gravação não é suportado pelo hardware gráfico instalado. Desempenho será prejudicado
+DIRECT3D_HARDWARE_NOT_SUPPORTED	Graphics hardware is not supported. {newline}DirectX 9 compatible hardware required.	Hardware gráfico não é suportado. DirectX 9 compatível hardware necessários.
+DIRECT3D_NOT_INSTALLED	Direct3D Not Found. Please install the latest version of DirectX 9.	Direct3D não encontrado. Por favor, instale a última versão do DirectX 9.
+DIRECT3D_DEVICE_LOST	The Graphics Driver has reported an error. vMix will now reset to the last known good state.	O driver de gráficos relatou um erro. Vmix agora vai repor para o estado conhecido último bom.
+CROSSBAR_NOT_FOUND	Crossbar device could not be found	Dispositivo trave não pôde ser encontrado
+CAPTURE_NOT_FOUND	Capture device could not be found	Dispositivo de captura não pôde ser encontrado
+WINDOWS_7_REQUIRED	Windows 7 or higher required.	Windows 7 ou mais alto exigido.
+WINDOWS_10_REQUIRED	Windows 10 or higher required.	Windows 10 ou superior necessário.
+POWERPOINT_LOAD_SLIDE_ERROR	Could not load Slide, please ensure PowerPoint is closed and try again.	Não foi possível carregar Slide, certifique-se de PowerPoint está fechado e tente novamente.
+EXTERNAL_RENDERER_NOT_FOUND	External Renderer Not Found	Renderer externo não encontrado
+AUDIO_DEVICE_NOT_FOUND	AUDIO_DEVICE_NOT_FOUND	AUDIO_DEVICE_NOT_FOUND
+AUDIO_FORMAT_NOT_FOUND	AUDIO_FORMAT_NOT_FOUND	AUDIO_FORMAT_NOT_FOUND
+EXPIRED	This Program has Expired, please visit http://www.vmix.com/ for an updated version.	Este programa expirou, por favor visite http://www.vmix.com/ para uma versão atualizada.
+WIDTH_NOT_NUMBER	Width must be a number.	Largura deve ser um número.
+HEIGHT_NOT_NUMBER	Height must be a number.	Altura deve ser um número.
+BITRATE_NOT_NUMBER	BitRate must be a number.	BitRate deve ser um número.
+FPS_NOT_NUMBER	FPS must be a number.	FPS deve ser um número.
+PORT_NOT_NUMBER	Port must be a number.	Porta deve ser um número.
+QUALITY_NOT_NUMBER	Quality must be a number.	Qualidade deve ser um número.
+WMV_FORMAT_INVALID	WMV Format is not valid.	Formato WMV não é válido.
+WMV_PORT_IN_USE	Streaming Port is currently in use.	Transmissão Porto está atualmente em uso.
+DELAY_NOT_NUMBER	Delay must be a number.	Atraso deve ser um número.
+CAPTURE_RESOLUTION_NOT_SUPPORTED	Capture Resolution is not supported by this device.	Resolução de captura não é suportado por este dispositivo.
+CAPTURE_PIN_NOT_FOUND	Capture Pin could not be found.	Pin de captura não pôde ser encontrado.
+CAPTURE_CONFIGURE_CROSSBAR	Could not Configure Crossbar.	Não foi possível configurar Crossbar.
+CAPTURE_CONNECT_AUDIO	Could not Connect Audio.	Não foi possível conectar áudio.
+CAPTURE_ANALOG_FORMAT	Could not set Analog Format.	Não foi possível definir o formato analógico.
+CAPTURE_PIN_FORMAT	CAPTURE_PIN_FORMAT	CAPTURE_PIN_FORMAT
+RENDER_PIN	Could not Render Output.	Não foi possível Render Output.
+VMR9_INIT	Could not Configure VMR.	Não foi possível configurar VMR.
+TRANSITION_DURATION_NOT_NUMBER	Duration is not a number or is invalid.	Duração não é um número ou é inválido.
+STINGER_CUT_POINT_NOT_NUMBER	The Stinger Cut Point must be a number in milliseconds.	O ponto de corte Stinger deve ser um número em milissegundos.
+STINGER_CUT_POINT_GREATER_DURATION	The Stinger Cut Point cannot be greater than the Duration.	O ponto de corte Stinger não pode ser maior do que a duração.
+ASF_WRITER_NOT_FOUND	ASF Writer could not be found.	Escritor ASF não pôde ser encontrado.
+WINDOWS_MEDIA_SERVICE_INTERFACE_NOT_FOUND	Windows Media Service Interface could not be found.	Windows Media Service Interface não pôde ser encontrado.
+WINDOWS_MEDIA_PROFILE_MANAGER_NOT_FOUND	Windows Media Profile Manager could not be found.	Profile Manager do Windows Media não podia ser encontrado.
+ASF_WRITER_CONFIG_NOT_FOUND	ASF Writer Configuration not found.	ASF Configuração Escritor não encontrado.
+WINDOWS_MEDIA_PROFILE_SETTINGS_NOT_COMPATIBLE	Windows Media Profile Settings are not compatible.	Definições do perfil Windows Media não são compatíveis.
+REGISTRATION_EXPIRED	The current Registration Key has expired.	A Chave de Registro atual expirou.
+REGISTRATION_INVALID	The current Registration is invalid.	O registro atual é inválida.
+REGISTRATION_DIFFERENTMACHINE	Hardware has changed. Activate your key at {newline} http://www.vmix.com/activate	Equipamento mudou. Ative sua chave na http://www.vmix.com/activate
+REGISTRATION_CORRUPT	The current Registration is corrupt, please try registering again.	O registro atual é corrupto, por favor tente registrar-se novamente.
+REGISTRATION_INVALIDDATE	The System Date is invalid.	A data do sistema é inválido.
+REGISTRATION_RENEWFAILED	Unable to renew Registration Key, check your internet connection and try again.	Não foi possível renovar a chave de registro, verifique sua conexão com a Internet e tente novamente.
+REGISTRATION_SUBSCRIPTIONEXPIRED	Subscription has expired, please check your account and try again.	A assinatura expirou, verifique sua conta e tente novamente.
+INPUT_LIMIT_REACHED	The Input Limit in this Edition has been reached. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	O limite de entrada nesta edição foi atingido. Atualize vMix para permitir mais recursos. http://www.vmix.com/upgrade
+CAPTURE_LIMIT_REACHED	The Capture Input Limit in this Edition has been reached. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	O limite de entrada de captura nesta edição foi atingido. Atualize vMix para permitir mais recursos. http://www.vmix.com/upgrade
+RESOLUTION_LIMIT_EXCEEDED	The selected resolution is not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	A resolução selecionada não é suportado nesta edição do vMix. Atualize vMix para permitir mais recursos. http://www.vmix.com/upgrade
+AVI_RECORDING_NOT_SUPPORTED	AVI Recording is not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	AVI gravação não é suportado nesta edição do vMix. Atualize vMix para permitir mais recursos. http://www.vmix.com/upgrade
+WMV_RECORDING_NOT_SUPPORTED	WMV Recording and Streaming is not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	Gravação WMV e ao vivo não é suportado nesta edição do vMix. Atualize vMix para permitir mais recursos. http://www.vmix.com/upgrade
+OVERLAY_LIMIT_REACHED	Multiple Overlays are not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	Várias Sobreposições não são suportados nesta edição do vMix. Atualize vMix para permitir mais recursos. http://www.vmix.com/upgrade
+FEATURE_NOT_SUPPORTED	This feature is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	Esse recurso não está disponível nesta edição do vMix. Atualize vMix para permitir mais recursos. http://www.vmix.com/upgrade
+MPG_RECORDING_NOT_SUPPORTED	MPEG Recording is not supported in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	MPEG gravação não é suportado nesta edição do vMix. Atualize vMix para permitir mais recursos. http://www.vmix.com/upgrade
+MULTICORDER_NOT_SUPPORTED	MultiCorder is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	MultiCorder não está disponível nesta edição do vMix. Atualize vMix para permitir mais recursos. http://www.vmix.com/upgrade
+INVALID_RECORDING_FILENAME_FORMAT	Invalid Recording Filename Format. Missing one or more required options or contains invalid characters.	Formato de arquivo inválido Gravação. Faltando uma ou mais opções necessárias ou contém caracteres inválidos.
+MULTICORDER_SELECT_INPUT	Highlight an Input first.	Realce uma entrada primeiro.
+LIST_NOT_AVAILABLE	The List Input is not available in this Edition of vMix.{newline}Upgrade vMix to enable this feature.{newline}http://www.vmix.com/upgrade	A entrada de lista não está disponível nesta edição do vMix. Atualize vMix para ativar esse recurso. http://www.vmix.com/upgrade
+MULTICORDER_NOT_CONFIGURED	MultiCorder has not been configured.	MultiCorder não foi configurado.
+REPLAY_NOT_SUPPORTED	Instant Replay is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	Repetição Instantânea não está disponível nesta edição do vMix. Atualize vMix para permitir mais recursos. http://www.vmix.com/upgrade
+SCRIPTING_NOT_SUPPORTED	Scripting is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	Scripting não está disponível nesta edição do vMix. Atualize vMix para permitir mais recursos. http://www.vmix.com/upgrade
+PTZ_NOT_SUPPORTED	PTZ is not available in this Edition of vMix.{newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	PTZ não está disponível nesta edição do vMix. Atualizar vMix para permitir mais recursos. http://www.vmix.com/upgrade
+INPUT_TYPE_NOT_SUPPORTED	The selected Input Type is not supported.	O tipo de entrada selecionado não é suportado.
+INPUT_FORMAT_NOT_SUPPORTED	File Format Not Supported.	Formato de arquivo não suportado.
+INPUT_LOAD_ERROR	Error Loading Input.	Entrada Loading Error.
+INPUT_NOT_FOUND	Could not find input.	Não foi possível encontrar entrada.
+DIRECT3D_SHADERS_NOT_SUPPORTED	vMix requires a Graphics Card that supports Pixel Shader 2.0 or higher.	Vmix exige uma placa gráfica que suporte Pixel Shader 2.0 ou superior.
+DEVICE_NOT_READY	Device Not Ready	Dispositivo não está pronto
+NET_FRAMEWORK_35_REQUIRED	.NET Framework 3.5 SP1 is required to run this software.	. NET Framework 3.5 SP1 é necessário para executar este software.
+CAPTURE_DEVICE_IN_USE	Capture Device is still in use, close any open programs and try again.	Dispositivo de Captura ainda está em uso, feche todos os programas abertos e tente novamente.
+CAPTURE_DEVICE_LOAD_ERROR	Capture Device could not be loaded, please check the device and try again.	Dispositivo de captura não pôde ser carregado, por favor, verifique se o dispositivo e tente novamente.
+INVALID_HANDLE	Invalid Handle.	Inválido Handle.
+INVALID_LENGTH	Invalid Length.	Comprimento inválido.
+VIDEO_SYSTEM_NOT_COMPATIBLE_WITH_FORMAT	The selected Frame Rate is not compatible with this Recording Format.	A taxa de quadros selecionado não é compatível com este formato de gravação.
+CODEC_NOT_SUPPORTED	Codec Not Supported. Try different Output Format under Settings, Performance.	Codec não suportado. Tente Formato de saída diferentes em Configurações, Performance.
+CODEC_NOT_FOUND	A Video Codec has not been configured.	Um codec de vídeo não foi configurado.
+DV_DOES_NOT_SUPPORT_HD	DV Video Encoder does not support recording to HD. Select another codec or choose the MPEG-2 or MP4 recording options.	O DV Video Encoder não suporta gravação para HD. Selecione um outro codec ou escolher as MPEG-2 ou de gravação MP4 opções.
+WEB_BROWSER_NOT_FOUND	Web Browser Could Not Be Found.	Navegador da Web não pôde ser encontrado.
+DVD_FILES_MISSING	DVD Files Missing.	Arquivos de DVD Missing.
+RENDERER_NOT_CONNECTED	Video could not be connected. Please make sure an appropriate video codec for this format is installed.	Vídeo não pode ser conectado. Certifique-se de um codec de vídeo apropriada para este formato está instalado.
+INVALID_RENDERER	Invalid Renderer.	Inválido Renderer.
+DVD_NOT_FOUND	DVD Could Not Be Found.	DVD não pode ser encontrado.
+DVD_NAVIGATOR_NOT_FOUND	DVD Navigator Could Not Be Found.	DVD Navigator não pôde ser encontrado.
+DESKTOP_CAPTURE_SOURCE_NOT_AVAILABLE	Desktop Capture Source Is No Longer Available.	Fonte de captura de desktop não está mais disponível.
+AAC_AUDIO_FORMAT_NOT_SUPPORTED	The selected Audio Sample Rate and Channels are not supported by this Encoder.	A taxa de amostragem de áudio e canais selecionados não são suportados por este Encoder.
+PRESET_NOT_FOUND	Preset Not Found.	Pré Not Found.
+PRESET_LOAD_ERROR	Error Loading Preset.	Predefinidos Carregando erro.
+PLAYLIST_LOAD_ERROR	PlayList Could Not Be Loaded.	PlayList não pôde ser carregado.
+PLAYLIST_NOT_FOUND	PlayList could not be found.	PlayList não pôde ser encontrado.
+PLAYLIST_RUNNING	PlayList is currently running, please stop PlayList and try again.	PlayList está sendo executado, por favor pare PlayList e tente novamente.
+PLAYLIST_INPUT_NOT_FOUND	PlayList Input Not Found.	PlayList de entrada não encontrado.
+PLAYLIST_ALREADY_EXISTS	PlayList name already exists.	Nome da lista já existe.
+PLAYLIST_EMPTY	PlayList has not been configured.	PlayList não foi configurado.
+OUTPUT_POSITION_NOT_NUMERIC	Output Position Values must be Numeric.	Valores de posição de saída deve ser numérico.
+OUTPUT_POSITION_WIDTH_HEIGHT_ZERO	Output Position Width and Height must be greater than zero.	Largura de saída posição e altura deve ser maior que zero.
+INVALID_MEDIA_TYPE	Invalid Media Type.	Tipo de mídia inválido.
+INVALID_RESOLUTION	Invalid Resolution.	Resolução inválido.
+SELECT_CAPTURE_DEVICE	Select Capture Device.	Selecione Capturar do dispositivo.
+SELECT_AUDIO_DEVICE	Select Audio Device.	Selecionar dispositivo de áudio.
+QUICKTIME_INIT_ERROR	Error Initialising QuickTime.	Erro Inicialização QuickTime.
+QUICKTIME_NOT_INSTALLED	QuickTime 7.6 or higher is not installed.	QuickTime 7.6 ou superior não está instalado.
+QUICKTIME_CONTEXT_ERROR	QuickTime Context Error.	QuickTime Erro de contexto.
+QUICKTIME_UNDEFINED_ERROR	Undefined QuickTime Error.	Erro QuickTime indefinido.
+FLASH_NOT_INSTALLED	Please install Adobe Flash Player for Internet Explorer to use this feature.	Por favor, instale o Adobe Flash Player para o Internet Explorer para usar esse recurso.
+INVALID_PORT	Invalid Port.	Inválido Port.
+INVALID_HOSTNAME	Invalid Hostname/IP.	Nome de host / IP inválido.
+INVALID_LATENCY	Invalid Latency.	Latência inválida.
+INVALID_PASS_PHRASE	Invalid Passphrase, must be between 10 and 79 characters.	Senha inválida, deve ter entre 10 e 79 caracteres.
+INVALID_KEYFRAME_FREQUENCY	Invalid Key Frame Frequency, must be at least 1 second.	Frequência de quadro chave inválida, deve ser de pelo menos 1 segundo.
+VC_H264_ENCODER_NOT_FOUND	H264 encoder could not be found on this PC.	Não foi possível encontrar o codificador H264 neste PC.
+VC_HEVC_ENCODER_NOT_FOUND	HEVC encoder is not installed. This can be installed by searching for HEVC Video Extensions in the Windows 10 Microsoft Store.	O codificador HEVC não está instalado. Para instalá-lo, procure por extensões de vídeo HEVC na Windows 10 Microsoft Store.
+VC_AV1_ENCODER_NOT_FOUND	AV1 encoder is not installed. This encoder requires a NVIDIA 4000 series graphics card or higher.	O codificador AV1 não está instalado. Este codificador requer uma placa gráfica da série NVIDIA 4000 ou superior.
+FILE_FORMAT_NOT_RECOGNISED	File Format Not Recognised.	Formato do arquivo não reconhecidas.
+FILE_FORMAT_NEEDS_SOURCE_FILTER	Windows needs an additional component installed to play this file format.	Windows precisa de um componente adicional instalado para jogar este formato de arquivo.
+FILE_FORMAT_NEEDS_HAALI_FILTER	Please install the Haali Media Splitter to play this file format.	Por favor instalar o Haali Media Splitter para jogar este formato de arquivo.
+EMPTY_DIRECTORY	Directory Is Empty.	Diretório está vazio.
+RECORDING_UNEXPECTED_ERROR	Recording has stopped unexpectedly.	A gravação foi interrompida inesperadamente.
+RECORDING_START_TIMED_OUT	Recording timed out waiting for first frame.	Gravação expirou esperando primeiro quadro.
+DVPIN_NOT_FOUND	DV Pin could not be found.	DV Pin não pôde ser encontrado.
+DVSPLITTERPIN_NOT_FOUND	DV Splitter Pin could not be found.	DV Splitter Pin não pôde ser encontrado.
+HDVPIN_NOT_FOUND	HDV Pin could not be found.	HDV Pin não pôde ser encontrado.
+DVSPLITTER_NOT_FOUND	DV Splitter could not be found.	DV Splitter não pôde ser encontrado.
+MPEG2DEMULTIPLEXER_NOT_FOUND	MPEG-2 Demultiplexer could not be found.	MPEG-2 Demultiplexer não pôde ser encontrado.
+POWERPOINT_OPEN_ERROR	Could not open PowerPoint presentation, make sure presentation is in correct format and PowerPoint is installed.	Não foi possível abrir apresentação do PowerPoint, certifique-se de apresentação está no formato correto e PowerPoint está instalado.
+VIDEO_DELAY_MEMORY_LIMIT	A maximum of 1GB of Buffer Memory (32GB under x64) is supported in this version of vMix.	Um máximo de 1GB de memória buffer (32GB em x64) é suportado nesta versão do Vmix.
+VIDEO_DELAY_NOT_ENOUGH_MEMORY	Not enough free memory to support this Buffer size.	Não memória livre suficiente para suportar este tamanho de buffer.
+VIDEO_DELAY_IN_USE	Only one Video Delay per Source may be used at a time.	Apenas um Atraso do vídeo por Fonte pode ser utilizado de cada vez.
+VIDEO_DELAY_SOURCE_NOT_FOUND	Video Delay Source Input could not be found.	Vídeo Retardo Fonte de entrada não pôde ser encontrado.
+MPEG2_ENCODER_NOT_FOUND	Windows 7 or higher required for MPEG-2 support.	Windows 7 ou superior necessário para MPEG-2 apoio.
+MPEG2_BITRATE_NOT_COMPATIBLE_WITH_SIZE	The selected MPEG2 BitRate is not compatible with this resolution.	O BitRate MPEG2 selecionado não é compatível com esta resolução.
+MPEG2_ENCODER_NOT_AVAILABLE	The MPEG-2 Encoder requires Windows Media Center to be installed on this version of Windows.	O codificador MPEG-2 requer o Windows Media Center para ser instalado nesta versão do Windows.
+SHORTCUT_ALREADY_EXISTS	Shortcut Already Exists.	Atalho já existe.
+SHORTCUT_INVALID_FORMAT	Shortcut is in Invalid Format.	Atalho é em formato inválido.
+SHORTCUT_SELECT_FUNCTION	Please select a Function.	Por favor selecione uma função.
+WEB_COULD_NOT_START	Web Controller could not start. The port may already be in use.	Controlador da Web não pôde ser iniciado. A porta já pode estar em uso.
+WEB_NOT_STARTED	The Web Controller has not been enabled. Please enable in settings and restart vMix.	O controlador da Web não foi ativado. Ative em configurações e reiniciar vMix.
+STOP_RECORDING	Stop Recording, External Output, MultiCorder and Streaming before Opening a Preset.	Pare de Gravar, Saída Externa, MultiCorder e Streaming antes de Abrir um Preset.
+NOT_SUPPORTED_UNDER_X64	This feature does not support 64bit.	Este recurso não suporta 64 bits.
+COULD_NOT_IMPORT_SETTINGS	Could not import settings. Check the file format is correct.	Não foi possível importar as configurações. Verifique o formato do arquivo está correta.
+COULD_NOT_EXPORT_SETTINGS	Could not export settings.	Não foi possível exportar as configurações.
+WASAPI_RECORDER_NOT_SUPPORTED	Audio Engine requires Windows 7 or higher.	Audio Engine requer o Windows 7 ou superior.
+WASAPI_RECORDER_COULD_NOT_START	Audio Engine could not start. Please ensure a sound device has been installed.	Audio Engine não pôde ser iniciado. Certifique-se de um dispositivo de som foi instalado.
+WASAPI_REQUIRED	A connected Sound Card is required in this PC to use this Input.	A placa de som ligado é necessário neste PC para usar esta entrada.
+TALLY_COM_PORT_NOT_AVAILABLE	Tally Lights could not be loaded. COM Port is unavailable.	Luzes Tally não pôde ser carregado. COM Port está disponível.
+TALLY_PREVIEW_NOT_NUMBER	Preview Pin is not a number.	Pin visualização não é um número.
+TALLY_ACTIVE_NOT_NUMBER	Active Pin is not a number.	Pin ativo não é um número.
+UI_THREAD	Invalid UI Thread.	Inválido segmento.
+INPUT_KEY_IN_USE	Input Key is already in use.	Chave de entrada já está em uso.
+TIMED_OUT	Timed Out waiting for a response.	Esgotado o tempo limite de espera por uma resposta.
+INVALID_PARAMETERS	Invalid Parameters.	Parâmetros inválidos.
+CAPTURE_INTERLACED_SOURCE_REQUIRED	Interlaced Frame Rate required for this Deinterlacing method.	Frame Rate entrelaçado necessário para este método de desentrelaçamento.
+CAPTURE_VIRTUALGENLOCK_REQUIRED	Virtual GenLock is required for this Deinterlacing method.	Virtual GenLock é necessário para este método de desentrelaçamento.
+CAPTURE_VMR_NOT_SUPPORTED	VMR not supported with this Deinterlacing method.	VMR não é suportado com este método de desentrelaçamento.
+CAPTURE_DOUBLE_FRAME_RATE_REQUIRED	Bob Deinterlace requires a System Frame Rate that is double the Interlaced Capture Frame Rate.	Bob Deinterlace exige uma taxa de quadros do sistema que é o dobro da taxa de quadros entrelaçado captura.
+CORRUPT	This program has been modified and will now exit.	Este programa foi modificado e agora vai sair.
+CORRUPT_CONFIGURATION	vMix has repaired a corrupt configuration file. Please restart vMix to complete the repair.	Vmix consertou um arquivo de configuração corrompido. Por favor, reinicie Vmix para concluir o reparo.
+AUDIO_DEVICE_IN_USE_INPUT	The selected Audio Device is already in use by an Input. Select a vMix Audio device instead.	O dispositivo de áudio selecionado já está em uso por uma entrada. Selecione um dispositivo de áudio Vmix vez.
+AUDIO_DELAY_NOT_SUPPORTED	Audio Delay supports a value between -2000 and 2000 milliseconds.	Atraso de áudio suporta um valor entre -2000 e 2000 milissegundos.
+INVALID_IMAGE_FORMAT	Invalid Image Format.	Formato da imagem inválido.
+VIDEO_DELAY_SOURCE_NOT_READY	Video Source Not Ready.	Fonte de vídeo não está pronta.
+NAME_CANNOT_BE_EMPTY	Name cannot be empty.	Nome não pode ser vazio.
+RECORDING_NOT_ENOUGH_DISK_SPACE	There is not enough disk space to continue this recording.	Não há espaço em disco suficiente para continuar esta gravação.
+RECORDING_DIRECTORY_NOT_FOUND	Recording directory could not be found. Please check that it exists and try again.	directório de gravação não pôde ser encontrado. Por favor, verifique se ele existe e tente novamente.
+RECORDING_INVALID_FILENAME	Recording filename is invalid. Please check the filename and try again.	Gravação de nome de arquivo é inválido. Por favor, verifique o nome do arquivo e tente novamente.
+RECORDING_VERTICAL_NOT_SUPPORTED	This recording format does not support Vertical or Square video.	Este formato de gravação não suporta vídeo Vertical ou Quadrado.
+LIST_REQUIRES_ONE_ITEM	List requires at least one item.	List, requer, pelo menos, um item.
+MP4_SIZE_LIMIT	MP4 Recording has a maximum file size of 3.7GB under Windows 7	Gravação MP4 tem um tamanho máximo de arquivo de 3.7GB no Windows 7
+EXTERNAL_RENDERER_IN_USE_OR_NOT_COMPATIBLE	The selected External Renderer Device is in use or does not support the selected format. Please check your External Output settings and try again.	O dispositivo Renderer externo selecionado está em uso ou não suporta o formato selecionado. Por favor, verifique as configurações de saída externa e tente novamente.
+SELECT_ITEM	Select an item in the list first.	Selecione um item na lista pela primeira vez.
+UYVY_REQUIRED	Output Format must be set to UYVY for this Device.	Formato de Saída deve ser definido como UYVY para este dispositivo.
+OUTPUT_FRAMERATE_MISMATCH	External Output Frame Rate must match vMix Frame Rate.	External Frame Rate saída deve corresponder vMix Frame Rate.
+STREAMING_AUDIO_BITRATE_NOT_SUPPORTED	The selected Audio Master Bit Rate is not support (32bit), please change this to 16 bit PCM in vMix Settings under the Audio tab.	O selecionado Áudio Mestre Bit Rate não é apoiar (32bit), por favor, alterá-lo para 16 bits PCM em Configurações vmix sob a guia Áudio.
+FFMPEG_RECORDING_FAILED	FFMPEG Recording failed. Check the log file for more information.	FFMPEG gravação falhou. Verifique o arquivo de log para obter mais informações.
+REPLAY_ALREADY_IN_USE	Instant Replay is already in use. Only one session can be open at a time.	Instant Replay já está em uso. Apenas uma sessão pode ser aberta ao mesmo tempo.
+REPLAY_ERROR_SOURCE_CONFIGURATION	One or more Cameras could not be configured for Instant Replay.	Uma ou mais câmeras não poderia ser configurada para Instant Replay.
+REPLAY_MARK_VALUE_INVALID	Mark value must be in seconds between 1 and 30 seconds long.	Mark valor deve ser em segundos entre 1 e 30 segundos de duração.
+REPLAY_EVENT_NOT_FOUND	Instant Replay Event could not be found.	Replay instantâneo do evento não pôde ser encontrado.
+REPLAY_SHORTCUT_VALUE_NOT_NEGATIVE	Replay Shortcut Value cannot be negative.	Valor de replay atalho não pode ser negativo.
+REPLAY_ONE_CHANNEL	This version of Instant Replay supports one camera only. Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	Esta versão do Instant Replay suporta apenas uma câmera. Atualize vMix para permitir mais recursos. http://www.vmix.com/upgrade
+REPLAY_SOURCE_ALREADY_IN_USE	Source is already in use.	Fonte já está em uso.
+REPLAY_MULTICORDER_ERROR	Instant Replay and MultiCorder cannot be used at the same time.	Repetição instantânea e MultiCorder não podem ser usados ​​ao mesmo tempo.
+REPLAY_64BIT_REQUIRED	Instant Replay requires the 64bit version of vMix.	Instant Replay requer a versão 64 bits do vMix.
+FEATURE_64BIT_REQUIRED	This feature requires the 64bit (x64) version of vMix.	Esta característica requer a versão de 64 bits (x64) do vMix.
+VIDEOCALL_NOT_SUPPORTED	vMix Call is not available in this Edition of vMix. {newline}Upgrade vMix to enable more features.{newline}http://www.vmix.com/upgrade	vMix chamada não está disponível nesta edição do vMix. Atualizar vMix para permitir mais recursos. http://www.vmix.com/upgrade
+VIDEOCALL_SERVER_CONNECT_ERROR	Could not connect to vMix Call server, check your internet connection and try again.	Não foi possível conectar ao servidor de chamadas vMix, verifique a sua ligação à Internet e tente novamente.
+VIDEOCALL_MAXIMUM_CALLS_REACHED	The maximum number of vMix Calls for this Edition has been reached. {newline}Upgrade vMix to enable additional calls.{newline}http://www.vmix.com/upgrade	O número máximo de vMix chamadas para esta edição foi atingido. Atualizar vMix para permitir chamadas adicionais. http://www.vmix.com/upgrade
+VIDEOCALL_48_SAMPLE_RATE_REQUIRED	vMix Call requires the Audio Master Sample Rate to be 48000, this can be changed in the Audio tab under Settings	vMix chamada requer a Áudio Mestre Taxa de amostragem a ser 48000, isso pode ser alterado no separador Áudio em Configurações
+VIDEOCALL_PASSWORD_NOT_FOUND	vMix Call Password is incorrect.	vMix Chamada senha está incorreta.
+VIDEOCALL_INVALID_PASSWORD	Password must be at least 8 characters in length.	A senha deve ter pelo menos 8 caracteres de comprimento.
+VIDEOCALL_INVALID_NAME	Please enter a Name to identify yourself on this call.	Por favor, indique um nome para identificar-se sobre esta chamada.
+PRODUCTION_CLOCK_ALREADY_ADDED	Production Clocks Input has already been created. Only one can be active at a time.	Entrada de relógios de produção já foi criada. Apenas um pode estar ativo por vez.
+AUDIO_BUS_NOT_ENABLED	This Audio Bus needs to be enabled in Settings -> Audio Outputs first.	Este Audio Bus precisa ser ativado em Configurações -> Saídas de áudio primeiro.
+RECORDING_AUDIO_CHANNELS_NOT_SUPPORTED	This recording format does not support more than 2 Audio Channels.	Este formato de gravação não suporta mais de 2 canais de áudio.
+AUDIO_CHANNELS_NOT_SUPPORTED_6	This format does not support more than 6 Audio Channels.	Este formato não suporta mais de 6 canais de áudio.
+AUDIO_CHANNELS_NOT_SUPPORTED_8_SRT	SRT does not support more than 8 Audio Channels.	O SRT não suporta mais de 8 canais de áudio.
+AUDIO_CHANNELS_NOT_SUPPORTED_TOO_MANY	vMix supports a maximum of 16 Audio Channels per input.	O vMix suporta no máximo 16 canais de áudio por entrada.
+WINDOWS_ACCESS_DENIED	Windows has blocked access to this device. Check your Windows Privacy Settings to ensure Camera and Microphone access is enabled.	O Windows bloqueou o acesso a este dispositivo. Verifique suas configurações de privacidade do Windows para garantir que o acesso da câmera e do microfone esteja ativado.
+SELECT_INPUT	Please select an Input.	Por favor, selecione uma entrada.
+SELECT_COPY_SOURCE	Please select one or more items to copy.	Por favor, selecione um ou mais itens para copiar.
+MIX_MAXIMUM_REACHED	A maximum of 15 Mix inputs can be added at the same time.	Um máximo de 15 entradas Mix podem ser adicionadas ao mesmo tempo.
+OUTPUT_MAXIMUM_REACHED	A maximum of 1 Input of this type can be added at a time.	No máximo 1 entrada deste tipo pode ser adicionada por vez.
+EXTERNAL_OUTPUT_DEVICE_NOT_FOUND_1	Device not found or selected under Settings - External Output. Please check the settings and try again.	Dispositivo não encontrado ou selecionado em Configurações - Saída Externa. Verifique as configurações e tente novamente.
+EXTERNAL_OUTPUT_DEVICE_NOT_FOUND_2	Device not found or selected under Settings - External Output - External 2.{newline}Check the settings or if you are not using External 2, untick the External Renderer checkbox in the External 2 tab.	Dispositivo não encontrado ou selecionado em Configurações - Saída Externa - Externa 2. Verifique as configurações ou, se não estiver usando Externo 2, desmarque a caixa de seleção Renderizador Externo na guia Externo 2.
+Start	Start	Começar
+Stop	Stop	Parar
+Basic	Basic	Básico
+Advanced	Advanced	Avançado
+Pause Rendering	Pause Rendering	Rendering pausa
+Resume Rendering	Resume Rendering	Resume Rendering
+Translations provided by Google Translate	Translations provided by Google Translate	Traduções fornecidas pelo Google Translate
+This action will stop the following, do you wish to continue?	This action will stop the following, do you wish to continue?	Esta ação interromperá o seguinte, deseja continuar?
+ToolTip.frmmain.cmdAudioMixer	Show or hide audio mixer pane	Mostrar ou ocultar o painel mixer de áudio
+ToolTip.frmmain.cmdPause	Pause all currently playing video inputs	Pause todas as entradas de vídeo atualmente jogando
+ToolTip.frmmain.UiFader1	Manual fade using first transition effect. (T-Bar)	Desbotamento manual com efeito de primeira passagem. (T-Bar)
+ToolTip.frmmain.cmdFTB	Toggle fade to black on Output	Desvanece-se de alternância para preto na saída
+ToolTip.frmmain.cmdRecSetup	Configure Recording	Configurar Gravação
+ToolTip.frmmain.cmdRecStartStop	Start or stop Recording	Iniciar ou parar gravação
+ToolTip.frmmain.cmdExternal	Configure External Output source	Configurar fonte de Saída Externa
+ToolTip.frmmain.cmdDeckLinkRender	Start or stop External Output	Iniciar ou parar Saída Externa
+ToolTip.frmmain.cmdDeckLinkInfo	View External Output statistics	Ver estatísticas de saída externa
+ToolTip.frmmain.cmdRecInfo	View Recording statistics	Ver estatísticas de gravação
+ToolTip.frmmain.cmdStreamingSetup	Configure Streaming settings	Configurar as definições de Transmissão
+ToolTip.frmmain.cmdStreaming	Start or stop Streaming	Iniciar ou parar Transmissão
+ToolTip.frmmain.cmdPlayListSetup	Configure a PlayList of Inputs	Configure uma lista de reprodução de Entradas
+ToolTip.frmmain.cmdPlaylist	Start or Stop a PlayList of Inputs	Iniciar ou parar uma lista de reprodução de Entradas
+ToolTip.frmmain.cmdMultiCorderSetup	Configure recording of multiple camera inputs	Configurar a gravação de múltiplas entradas de câmara
+ToolTip.frmmain.cmdMultiCorderStartStop	Start or Stop MultiCorder	Iniciar ou Parar MultiCorder
+ToolTip.frmmain.cmdOverlaySettings	Configure overlay settings	Configure configurações de sobreposição
+ToolTip.frmmain.cmdStatistics	View performance statistics	Ver estatísticas de desempenho
+ToolTip.frmmain.cmdShortcuts	View shortcuts	Exibir os atalhos
+ToolTip.frmmain.cmdPhoto	Take image snapshot of Output	Tome imagem instantâneo de saída
+ToolTip.frmmain.cmdLock	Lock or unlock buttons such as Close and Start/Stop Recording	Bloquear ou desbloquear botões, como Fechar e Gravação Start / Stop
+ToolTip.frmmain.cmdInputsAll	Show all Inputs	Mostrar todas as entradas
+ToolTip.frmmain.cmdInputsGreen	Show Inputs assigned to Green category	Mostrar Entradas atribuída a categoria verde
+ToolTip.frmmain.cmdInputsRed	Show Inputs assigned to Red category	Mostrar Entradas atribuída a categoria Vermelho
+ToolTip.frmmain.cmdInputsPurple	Show Inputs assigned to Purple category	Mostrar Entradas atribuída a categoria roxa
+ToolTip.frmmain.cmdInputsOrange	Show Inputs assigned to Orange category	Mostrar Entradas atribuída a categoria de laranja
+ToolTip.frmmain.cmdInputsBlue	Show Inputs assigned to Blue category	Mostrar Entradas atribuída a categoria azul
+ToolTip.frmmain.cmdInputsAqua	Show Inputs assigned to Aqua category	Mostrar Entradas atribuída a categoria do Aqua
+ToolTip.frmmain.cmdInputsSearch	Show Inputs with titles matching category text	Mostrar entradas com títulos que correspondam ao texto da categoria
+ToolTip.frmmain.cmdScreen	Toggle on or off the Fullscreen Output display	Ativa ou desativa a exibição de saída Fullscreen
+ToolTip.frmmain.cmdQuickPlay	Transition from Preview to Output using the Transition effect configured in Settings	Transição de pré-visualização para saída usando o efeito de transição configurado em Configurações
+ToolTip.frmmain.cmdAdvanced	Toggle the display of advanced buttons within the vMix main window	Alternar a exibição de botões avançados dentro da janela principal do vMix
+ToolTip.frmmain.cmdHelp	Browse Online Help	Procure Ajuda Online
+ToolTip.frmmain.cmdRestart	Restart the selected Input	Reinicie o Input selecionada
+ToolTip.frmmain.cmdRestartM	Restart the selected Input	Reinicie o Input selecionada
+ToolTip.frmmain.cmdPlayM	Play or Pause the selected Input	Reproduzir ou pausar a entrada seleccionado
+ToolTip.frmmain.cmdPlay	Play or Pause the selected Input	Reproduzir ou pausar a entrada seleccionado
+ToolTip.frmmain.cmdAddInput	Add a new Input such as a Video, Camera or Image	Adicione uma nova entrada, como um vídeo, câmera ou imagem
+ToolTip.frmmain.Input.cmdSelect	Toggle on or off audio for this Input	Ligar ou desligar o áudio para esta entrada
+ToolTip.frmmain.Output.cmdSelect	Toggle on or off audio for this Output	Ligar ou desligar o áudio para este Output
+ToolTip.frmmain.Input.cmdFollow	Toggle automatic audio mixing for this Input	Alternar áudio mistura automática para esta entrada
+ToolTip.frmmain.Output.cmdFollow	Show Performance Statistics for Audio Mixer	Mostrar estatísticas de desempenho para Audio Mixer
+ToolTip.frmmain.cmdSolo	Solo this Input for monitoring on Headphones	Solo esta entrada para o monitoramento em auscultadores
+ToolTip.frmmain.cmdSettings	Configure audio settings such as Gain and Compression	Configurar as definições de áudio, como Gain e Compressão
+ToolTip.frmmain.cmdBusA	Send this Inputs audio to	Enviar este áudio Entradas para
+ToolTip.frmmain.cmdBusB	Send this Inputs audio to	Enviar este áudio Entradas para
+ToolTip.frmmain.cmdBusM	Send this Inputs audio to	Enviar este áudio Entradas para
+ToolTip.frmmain.cmdSendToMaster	Send this Bus Mix to Master	Envie este Mix de ônibus para Master
+ToolTip.frmmain.iClose	Close this Input	Fechar esta entrada
+ToolTip.frmmain.iQuickPlay	Transition this Input directly to Output using the QuickPlay effect	Transição esta entrada diretamente para saída usando o efeito QuickPlay
+ToolTip.frmmain.iCut	Switch this Input directly to Output	Mudar esta entrada diretamente para saída
+ToolTip.frmmain.iLoop	Enable looping of this Input when it has finished playing	Ativar looping desta Entrada quando ele tiver terminado de jogar
+ToolTip.frmmain.iPlayPause	Play or pause this Input	Reproduzir ou interromper esta entrada
+ToolTip.frmmain.iOverlay1	Turn on or off this Input as an Overlay using the Overlay1 transition effect	Ativar ou desativar essa entrada como uma sobreposição usando o efeito de transição Overlay1
+ToolTip.frmmain.iOverlay2	Turn on or off this Input as an Overlay using the Overlay2 transition effect	Ativar ou desativar essa entrada como uma sobreposição usando o efeito de transição Overlay2
+ToolTip.frmmain.iOverlay3	Turn on or off this Input as an Overlay using the Overlay3 transition effect	Ativar ou desativar essa entrada como uma sobreposição usando o efeito de transição Overlay3
+ToolTip.frmmain.iOverlay4	Turn on or off this Input as an Overlay using the Overlay4 transition effect	Ativar ou desativar essa entrada como uma sobreposição usando o efeito de transição Overlay4
+ToolTip.frmmain.iAudio	Turn on or off the audio on this Input	Ligar ou desligar o áudio nesta Input
+ToolTip.frmmain.iPreview	Display a large preview of this Input. Click the preview to close when done	Exibir um grande prévia desta entrada. Clique na visualização para fechar quando feito
+ToolTip.frmmain.iConfigure	Configure various Input settings	Configurar várias definições de Entrada
+ToolTip.frmmain.cmdSaveExisting	Save changes to currently open Preset file	Salvar alterações no arquivo de predefinição aberto no momento
+ToolTip.frmmain.cmdSave	Save to a new Preset file	Salvar em um novo arquivo predefinido
